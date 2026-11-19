@@ -1,0 +1,464 @@
+{
+ "tidap.com.tr": {
+  "city": "Bursa",
+  "district": "Nilüfer (ofis kaydı İstiklal Mah.; üretim Kayapa bölgesi – doğrulanmalı)",
+  "subsector": "Atıksu arıtma tesisi / ekipman imalatı + akredite çevre laboratuvarı",
+  "web_status": "A",
+  "summary": "TİDAP markasıyla 1992'den beri endüstriyel ve evsel atıksu arıtma projesi ve makine-ekipman üretimi yapıyor. Rehber kaydında ISO 9001/14001 belgeli üretim, filtrepres, paket arıtma, köprülü sıyırıcı, ızgara/tambur elek, dozaj sistemleri, NF/UF geri kazanım ekipmanları ve TÜRKAK akrediteli 'Tidap Çevre Analizleri Laboratuvarı' (emisyon, imisyon, gürültü) var. Makinaturkiye profili 3.500 m² kapalı alan veriyor. Gıda, tekstil, deri, mezbaha ve otomotiv sektörlerine hizmet ediyor.",
+  "size_adj": 4,
+  "comm_adj": 3,
+  "scope": "Standart kurumsal site (40.000 TL + KDV) uygun. Ürün kataloğu ve laboratuvar hizmetleri için ayrı bölümler standart kapsamda kalır. Online numune/teklif takibi istenirse kapsam dışı.",
+  "approach": "Alan adında (tidap.com.tr) hosting firmasının varsayılan sayfası duruyor; 30 yılı aşkın üretici için dijital vitrin fiilen yok. Yaklaşım: 'Ürün grupları + laboratuvar + referans sektörler' iskeletiyle hazır bir site önerisi, Bursa'dan yüz yüze görüşme teklifi.",
+  "cat_cap": "A",
+  "notes": "Doğrulanmış e-posta bulunamadı. Tahmin edilen adres YAZILMADI. Telefon/adres Google Maps veya BTSO üye rehberinden doğrulanmalı. tidap.com alan adı satışta (firmayla ilgisi yok). Firmanın güncel faaliyeti teyit edilmeli (laboratuvar belgesi 2009 tarihli kayıtta geçiyor).",
+  "next": "Telefonu BTSO/Google Maps üzerinden doğrula, kurumsal e-postayı teyit et; sonra demo öner (A+ adayı)",
+  "status": "Araştırma tamamlandı",
+  "demo": "Önerildi – onay bekliyor",
+  "name": "TİDAP Arıtma"
+ },
+ "serenmuhendislik.com.tr": {
+  "district": "Nilüfer (Alaaddinbey Mah., Sam 3 Plaza)",
+  "subsector": "Arıtma tesisi projelendirme + ekipman imalatı + çevre yönetim hizmetleri",
+  "summary": "2004'te faaliyete geçmiş Bursa firması: çevre yönetim hizmetleri, arıtma tesisi projelendirme, imalat ve ekipman üretimi. Rehber kaydında 'Çevre Bakanlığı yetkili firması' ve Türkiye geneli makine teslimi yazıyor. Sitede Tarihçe, Belgeler ve Referanslar sayfaları var; telif yılı 2017.",
+  "size_adj": 3,
+  "comm_adj": 2,
+  "scope": "Standart kurumsal site uygun.",
+  "approach": "Telif yılı 2017 olan site, imalat + mühendislik + çevre yönetimini tek çatıda sunan bir firmayı yansıtmıyor. Bursa'dan yerel ajans olarak proje fotoğrafları ve imalat kabiliyetini öne çıkaran yeni yapı önerisi.",
+  "next": "Kişiselleştirilmiş e-posta onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#seren",
+  "name": "Seren Mühendislik"
+ },
+ "elinsancevre.com": {
+  "district": "Nilüfer (Nilüfer Ticaret Merkezi, Otomasyon Plaza)",
+  "subsector": "Çevre danışmanlık, ÇED, izin-lisans, atıksu arıtma, ölçüm",
+  "summary": "2001'de Elinsan Ltd. bünyesinde başlayan danışmanlık faaliyetini 2007'den beri Elinsan Çevre Teknolojileri A.Ş. olarak sürdürüyor. Hizmetler: izin-danışmanlık, ÇED-PTD, GSM ruhsat, madencilik, atık yönetimi-lisans, atıksu arıtma (bakım, revizyon, işletme), emisyon/imisyon ölçümleri, ISO 9001/14001/17025 danışmanlığı. Sitede ÇED yeterlik ve büro tescil belgeleri bölümü var.",
+  "size_adj": 3,
+  "comm_adj": 2,
+  "scope": "Standart kurumsal site uygun.",
+  "approach": "Sitenin üst bölümünde Türkiye dışı şablon telefon numarası (+1 646-610-5000) görünüyor; bu, potansiyel müşterinin güvenini doğrudan etkileyen somut bir hata. Kibar bir dille bu gözlemle açılış, ardından A.Ş. ölçeğine uygun yeni yapı.",
+  "next": "Kişiselleştirilmiş e-posta onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#elinsan",
+  "name": "Elinsan Çevre Teknolojileri A.Ş."
+ },
+ "boracevre.com": {
+  "district": "Nilüfer (Konak Mah., Koru Sitesi)",
+  "subsector": "Çevre danışmanlık, ÇED, yönetim sistemleri",
+  "summary": "Bursa Nilüfer'de çevre danışmanlık, ÇED, ISO 9001/14001/45001 danışmanlığı veren firma; rehber kaydında 25 yıllık deneyim ifadesi var. Site 2018 tarihli bir ajans şablonu; ana görsel bulanık ve başlık okunmuyor.",
+  "size_adj": 0,
+  "comm_adj": 0,
+  "approach": "Okunabilirlik ve güncellik üzerinden kibar gözlem; hizmet başına ayrı açıklayıcı sayfa ve sanayiciye yönelik teklif formu önerisi.",
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#bora"
+ },
+ "sukentcevre.com": {
+  "district": "Nilüfer (Yaylacık Mah.)",
+  "subsector": "Proses suyu arıtma, su şartlandırma kimyasalları, çevre danışmanlığı",
+  "summary": "Endüstride proses suyu arıtma sistemleri kurulumu ve kazan, soğutma ve RO şartlandırma kimyasalları; buhar kazanı su hazırlama odaklı. Sitede çevre danışmanlığı, makaleler ve kütüphane bölümleri var. Görünür e-posta, bir kişi adlı kurumsal adres.",
+  "size_adj": 0,
+  "comm_adj": 0,
+  "notes": "Sitede ikinci bir e-posta (sinan@sinaneldem.com.tr) var; büyük olasılıkla ajans/geliştirici. Kullanılmayacak.",
+  "next": "B grubu – sonraki tur",
+  "status": "Onay bekliyor",
+  "approach": "Proses suyu ve kazan kimyasalları uzmanlığı var; tarihli şablon ve ilgisiz şehir silueti kullanılmış. Sanayiciye yönelik teknik içerik ve teklif formu.",
+  "draft_ref": "outreach/eposta_taslaklari.md#sukent",
+  "name": "Sukent Çevre Mühendislik ve Arıtma Sistemleri"
+ },
+ "burkasan.com": {
+  "district": "Kestel",
+  "subsector": "Lisanslı atık yönetimi ve geri dönüşüm, çevre danışmanlık",
+  "summary": "Kaynaklara göre Bursa'nın bu alandaki ilk lisanslı işletmesi olarak 2005'te kuruldu (Kestel). Elektronik atık, ambalaj atığı toplama, ayrıştırma, geri kazanım ve raporlama yapıyor. LinkedIn ve Instagram hesapları aktif.",
+  "size_adj": 4,
+  "comm_adj": 3,
+  "scope": "Standart kurumsal site uygun. Atık kabul talep formu standart kapsamda; müşteri portalı veya atık takip entegrasyonu istenirse kapsam dışı.",
+  "approach": "Ana sayfa neredeyse boş: yalnızca 'Burkasan' ve 'Contact Us', menü İngilizce, hizmet anlatımı yok. Bursa'nın öncü lisanslı firması için Türkçe/İngilizce, hizmet ve lisans odaklı site önerisi.",
+  "next": "Kişiselleştirilmiş e-posta onaya sun; demo adayı",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#burkasan",
+  "demo": "Önerildi – onay bekliyor"
+ },
+ "yesilcevre.com.tr": {
+  "district": "Gürsu",
+  "subsector": "Merkezi atıksu arıtma tesisi (kooperatif) + akredite laboratuvar",
+  "summary": "1998'de Bursa Valiliği öncülüğünde kurulan S.S. Yeşil Çevre Hizmet ve İşletme Kooperatifi. Gürsu-Kestel sanayi atıksuyunu arıtıyor, yaklaşık 100 bin m³/gün kapasite, 441 ortak. TÜRKAK akrediteli laboratuvarı ve su geri kazanım yatırımı var (basında yer alıyor).",
+  "size_adj": 6,
+  "comm_adj": -4,
+  "notes": "Kooperatif yapısı: satın alma genelde ihale veya yönetim kurulu kararıyla yapılır, karar süreci uzun. Doğrudan e-posta yerine kurumsal iletişim veya randevu talebi daha uygun. KEP adresi var.",
+  "next": "B grubu – kurumsal randevu talebi düşünülebilir",
+  "status": "Onay bekliyor",
+  "approach": "Kurumsal yapı ve uzun karar süreci nedeniyle e-posta yerine randevu talebi; dijital vitrinin (ana görsel boş görünüyor) kooperatif ölçeğini yansıtmadığı gözlemi.",
+  "draft_ref": "outreach/eposta_taslaklari.md#yesilcevre",
+  "name": "S.S. Yeşil Çevre Hizmet ve İşletme Kooperatifi"
+ },
+ "mefaaritma.com": {
+  "district": "Nilüfer (Üçevler Mah., Nilüfer Ticaret Merkezi)",
+  "subsector": "Endüstriyel/evsel su ve atıksu arıtma, havuz sistemleri",
+  "summary": "Site başlığı 'Mefa Water Group – Havuz Sistemleri'. Endüstriyel arıtma, evsel ürünler, atıksu arıtma ve havuz sistemleri sunuyor; ana sayfada Bursa Büyükşehir gibi referans logoları var.",
+  "notes": "Sitede e-posta bulunamadı; iletişim formu ya da telefonla doğrulanmalı.",
+  "cat_cap": "B",
+  "next": "E-posta adresini doğrula",
+  "status": "Araştırılıyor"
+ },
+ "cevtas.com.tr": {
+  "district": "Kadıköy (Küçükyalı, Bağdat Cad.)",
+  "subsector": "Anahtar teslim su/atıksu arıtma tesisleri, membran, deniz suyu arıtma",
+  "summary": "Çevtaş Çevre Teknolojisi San. Tic. A.Ş., sitesine göre Türkiye'de çevre teknolojisi vizyonuyla kurulan ilk şirket; 35 yıllık geçmiş. Anahtar teslim su/atıksu tesisleri (dizayn, proje, inşaat, elektromekanik, işletme), deniz suyundan içme suyu, membran ve derin deniz deşarjı. Projeleri arasında Menderes AAT (yapım ve işletme), Niğde OSB AAT, Niksar AAT, Sabiha Gökçen Havalimanı ve Türkmenistan'da tekstil fabrikası MBR tesisi var.",
+  "size_adj": 6,
+  "comm_adj": 3,
+  "scope": "Standart kurumsal site uygun. Çok dilli içerik (TR/EN, gerekirse RU) 40.000 TL kapsamında 2 dil olarak planlanmalı; ek diller ayrıca fiyatlandırılır.",
+  "approach": "35 yıllık ve uluslararası proje geçmişi olan firmanın sitesi dar, kutulu, çok tarihli bir düzende. Proje portföyünü (kamu, havalimanı, yurt dışı) harita ve kapasite bilgileriyle sunan yeni yapı önerisi.",
+  "next": "Kişiselleştirilmiş e-posta onaya sun; demo adayı",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#cevtas",
+  "demo": "Önerildi – onay bekliyor",
+  "name": "Çevtaş Çevre Teknolojisi San. Tic. A.Ş."
+ },
+ "emsa.com.tr": {
+  "district": "",
+  "subsector": "Elektromekanik, atıksu arıtma taahhüt, inşaat",
+  "summary": "1976'dan beri elektrik-mekanik ağırlıklı çalışan, 20 yılı aşkın süredir arıtma tesisi taahhüdü yapan firma; Halkalı'da İSKİ limitlerine göre anahtar teslim kimyasal arıtma ve şantiye paket sistemleri gibi referansları var. Site 2000'ler dönemi tablo düzeninde.",
+  "notes": "Sitede e-posta bulunamadı; iletişim sayfası ve telefon üzerinden doğrulanmalı.",
+  "cat_cap": "A",
+  "size_adj": 4,
+  "comm_adj": 2,
+  "next": "E-posta adresini doğrula",
+  "status": "Araştırılıyor",
+  "approach": "1976'dan beri elektromekanik ve arıtma taahhüdü; 2000'ler tasarımı. E-posta doğrulandıktan sonra referans odaklı yeniden yapım teklifi."
+ },
+ "citymakine.com": {
+  "district": "Başakşehir (İkitelli OSB, Sefaköy Sanayi Sitesi)",
+  "subsector": "Arıtma ekipmanı imalatı: dekantör, filtre pres, ızgara, DAF, sıyırıcı",
+  "summary": "Su ve atıksu arıtma tesisi ekipmanı üreticisi: mekanik ızgara, statik/döner/tambur elek, kum-yağ tutucu, DAF, jet aeratör, köprülü sıyırıcı, dekantör, filtre pres, mikser. Sitesinde ürünlerinin Türkiye, Rusya, Romanya ve başka ülkelerde kullanıldığını belirtiyor. Site 2000'ler tasarımında, küçük yazılı ve dar sabit genişlikte.",
+  "size_adj": 3,
+  "comm_adj": 3,
+  "scope": "Standart kurumsal site + ürün kataloğu uygun. E-ticaret veya bayi paneli istenirse kapsam dışı.",
+  "approach": "İhracat yapan bir üreticinin ürün sayfaları teknik çizim, kapasite tablosu ve İngilizce/Rusça içerikle çok daha güçlü sunulabilir. Ürün-kategori mimarisi ve teklif talep formu önerisi.",
+  "next": "Kişiselleştirilmiş e-posta onaya sun; demo adayı",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#citymakine",
+  "demo": "Önerildi – onay bekliyor"
+ },
+ "aykosan.com.tr": {
+  "district": "",
+  "subsector": "Atıksu arıtma proje-taahhüt, paket biyolojik arıtma (AYPE) üretimi, işletme",
+  "summary": "Atıksu arıtma tesisi projelendirme, taahhüt, ekipman imalatı ve işletme; AYPE markalı paket biyolojik arıtma üniteleri. Referanslarında Onsa Rafineri (İstanbul), Rella Gıda (Manisa OSB), Prisika D.O.O. (Bosna Hersek) ve Ballentine PVT (Maldivler) var; yurt içi ve yurt dışı iş yapıyor. Site 2010'lar tarzında ve mobilde küçültülmüş masaüstü görünümü veriyor.",
+  "size_adj": 4,
+  "comm_adj": 3,
+  "scope": "Standart kurumsal site uygun (TR/EN).",
+  "approach": "Yurt dışı referansları (Bosna, Maldivler) olan firmanın sitesi mobilde okunmuyor. Mobil öncelikli, İngilizce proje portföylü yeni yapı önerisi.",
+  "next": "Kişiselleştirilmiş e-posta onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#aykosan"
+ },
+ "enginmuh.com": {
+  "district": "Ümraniye (+ Aydın şube)",
+  "subsector": "Su/atıksu arıtma, modüler depo, mekanik tesisat",
+  "summary": "2002'de İstanbul'da kurulmuş; su ve atıksu arıtma, kaynaklı ve modüler depolar, kazan-tesisat, manyetik kireç önleyici. Ümraniye merkez ve Aydın adresi var. Site çok eski dar sabit düzende.",
+  "size_adj": 0,
+  "comm_adj": 0,
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#engin",
+  "approach": "2002'den beri arıtma, depo ve tesisat yapan firmanın sitesi mobilde okunmuyor. Hizmet başına sade sayfalar ve İstanbul/Aydın lokasyon vurgusu."
+ },
+ "aesaritma.com.tr": {
+  "district": "Pendik (Kurtköy, Sanayi Mah.)",
+  "subsector": "Arıtma ekipmanı / filtre pres imalatı",
+  "summary": "AES Arıtma Ekipmanları ve Sistemleri İnş. Taah. San. Tic. Ltd. Şti.; filtre pres ve arıtma ekipmanı üreticisi (turkishexporter kaydında ihracatçı olarak listeleniyor). Site 2017 tarihli eski Bootstrap şablonu, 'Toggle navigation' metni görünüyor.",
+  "size_adj": 2,
+  "comm_adj": 2,
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#aes",
+  "approach": "Filtre pres üreticisi; 2017 şablonunda 'Toggle navigation' metni görünüyor. Ürün teknik föyleri ve teklif formuyla üretici vitrini.",
+  "name": "AES Arıtma Ekipmanları ve Sistemleri"
+ },
+ "aktifaritma.com": {
+  "district": "Ataşehir ofis + Kullar/Kocaeli imalat",
+  "subsector": "Su/atıksu arıtma tesisleri, imalat, ihracat",
+  "summary": "1998'de kurulan Aktif Arıtma Teknolojileri; Kullar/Kocaeli'de 3.000 m² kapalı ve 2.000 m² açık üretim alanı, yüzlerce kurulu tesis, son yıllarda ihracat. Site TR/EN/AR dilli fakat açılışta tam ekran yükleme katmanı var ve ana sayfa soluk görünüyor.",
+  "size_adj": 5,
+  "comm_adj": 3,
+  "notes": "Çok dilli site zaten mevcut; fırsat performans ve tasarım. Standart kapsamda 2 dil; Arapça ek dil olarak ayrıca fiyatlandırılır.",
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#aktif",
+  "approach": "3 dilli site var ama açılış katmanı ve soluk görünüm ilk izlenimi zayıflatıyor. 1998'den beri ve 5.000 m² üretim alanı mesajını ilk saniyede veren hızlı yapı.",
+  "name": "Aktif Arıtma Teknolojileri"
+ },
+ "massaritma.com": {
+  "city": "Kocaeli",
+  "district": "Gebze (iletişim: 0216 hatları)",
+  "subsector": "Anahtar teslim endüstriyel/evsel atıksu arıtma, ekipman üretimi, paket arıtma",
+  "summary": "Sitesine göre yarım asra yakın geçmişi olan firma; anahtar teslim evsel/endüstriyel atıksu tesisleri, ızgara-elek-pres, konveyör, paket arıtma (Biomass serisi), işletme-bakım, atık yönetimi. Referans dokümanında Mutlu Akü, Procter & Gamble ve Sabancı Üniversitesi tesisleri geçiyor. Masaüstünde ana sayfa büyük boş alanla açılıyor.",
+  "size_adj": 6,
+  "comm_adj": 3,
+  "next": "Kişiselleştirilmiş e-posta onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#mass",
+  "approach": "Yarım asırlık geçmiş ve P&G, Mutlu Akü gibi referanslar var; masaüstünde ana sayfa boş alanla açılıyor. İlk ekranda referans ve kapasite gücünü gösteren yeni yapı."
+ },
+ "agtsuaritma.com.tr": {
+  "district": "",
+  "subsector": "İçme suyu / endüstriyel su arıtma, RO, UF, biyolojik arıtma",
+  "summary": "Anahtar teslim su ve atıksu projeleri; devam eden projeler arasında Çanakkale içme suyu arıtma, Erzurum biyolojik arıtma, İzmir Bergama OSB; tamamlananlar arasında Hatay/Reyhanlı içme suyu tesisi ve Aksaray demir-mangan + UF + ozmoz sistemi var. Yurt içi ve yurt dışı proje yürüttüğünü belirtiyor. Yeni şablonun 'Haberler' ve 'Devam Eden Projeler' bölümleri boş görünüyor.",
+  "size_adj": 3,
+  "comm_adj": 3,
+  "next": "Kişiselleştirilmiş e-posta onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#agt",
+  "cat_cap": "A",
+  "approach": "Yeni bir şablona geçilmiş ama 'Haberler' ve 'Devam Eden Projeler' boş. Çanakkale, Hatay/Reyhanlı ve Aksaray gibi gerçek projeleri dolu bir portföye dönüştürme önerisi; tam yeniden yapım yerine içerik + yapı iyileştirmesi de sunulabilir.",
+  "notes": "Site yakın zamanda yenilenmiş olabilir; 'yeni yaptırdık' itirazı beklenir. Teklifte içerik/portföy odaklı ilerle.",
+  "name": "AGT Su Arıtma Teknolojileri"
+ },
+ "akararitim.com": {
+  "district": "İzmit (Yenişehir Mah.) + Samsun ofis",
+  "subsector": "Endüstriyel su arıtma, geri kazanım, membran; Lowara yetkili bayi",
+  "summary": "Akar İleri Arıtım Teknolojisi İnş. San. ve Tic. A.Ş. 2005'te kuruldu; Aquamatch su/atıksu arıtma, 2013'ten beri Lowara İzmit yetkili bayisi. Yurt içi ve dışında 1.000'i aşkın müşteri ve 100'ü aşkın proje beyanı. Masaüstünde ilk ekran boş açılıyor.",
+  "size_adj": 3,
+  "comm_adj": 2,
+  "next": "B+ – sonraki tur e-posta",
+  "status": "Onay bekliyor",
+  "approach": "1.000'i aşkın müşteri ve Lowara bayiliği var; masaüstünde ilk ekran boş açılıyor. Ürün ve proje odaklı hızlı yapı.",
+  "draft_ref": "outreach/eposta_taslaklari.md#akar",
+  "name": "Akar İleri Arıtım Teknolojisi A.Ş."
+ },
+ "sgscevre.com": {
+  "district": "İzmit (Serdar Mah.)",
+  "subsector": "Akredite çevre ölçüm laboratuvarı + danışmanlık",
+  "summary": "2004'te kurulan SGS Grup; 2010'da çevre ölçüm laboratuvarı, 2012'de TÜRKAK akreditasyonu (emisyon, imisyon, hava kalitesi, gürültü). Su/atıksu arıtma, ekipman ve kimyasal satışı ile çevre danışmanlığı da yapıyor. Site 2017 tarihli ve tarihli bir düzende.",
+  "size_adj": 2,
+  "comm_adj": 1,
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#sgs",
+  "approach": "TÜRKAK akrediteli laboratuvarın sitesi 2017'de kalmış. Akreditasyon kapsamı, numune/ölçüm talebi ve mevzuat içerikleriyle güven veren yapı."
+ },
+ "semsu.com.tr": {
+  "district": "Bornova? (0232 hattı – doğrulanmalı)",
+  "subsector": "Atıksu/su arıtma, ekipman imalatı, anahtar teslim",
+  "web_status": "B",
+  "email": "info@semsu.com.tr",
+  "email_status": "Doğrulanmış – resmi web sitesi",
+  "email_source": "https://www.semsu.com.tr (iletişim bölümü)",
+  "summary": "Arıtma sektöründe tüm imalatını kendi bünyesinde yaptığını belirten firma: tretabilite çalışması, proses ve ekipman seçimi, imalat, montaj, devreye alma ve mevcut tesis işletmesi. İnceleme sırasında ana sayfada saldırgan imzalı bir 'deface' sayfası yayında (yabancı protonmail adresiyle).",
+  "size_adj": 2,
+  "comm_adj": 2,
+  "scope": "Standart kurumsal site uygun; ek olarak güvenli hosting, güncelleme ve yedekleme önerilmeli (bakım paketi ayrıca).",
+  "approach": "Önce yardımcı bir uyarı: ana sayfanın yetkisiz biçimde değiştirildiği bilgisi ve ekran görüntüsü. Satış baskısı yapmadan; isterlerse güvenli yeni yapı teklifi. Bu ilk temas çok değerli ama hassas, dil çok nazik olmalı.",
+  "notes": "Sitede saldırgana ait gasspershell@protonmail.com adresi bulunuyor; CRM'e alınmadı. İlk e-posta alıcıya güvenlik bildirimi niteliğinde.",
+  "next": "Güvenlik bildirimi e-postasını onaya sun (öncelikli)",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#semsu"
+ },
+ "sumaltd.com": {
+  "district": "",
+  "subsector": "Altyapı ve arıtma tesisi projelendirme, paket arıtma imalatı",
+  "summary": "SUMA Mühendislik Mayıs 2013'te Ankara'da faaliyete başladı. Atıksu ve içme suyu arıtma projeleri, kanalizasyon/içme suyu şebeke projeleri, fizibilite; kimyasal, SBR ve MBBR paket arıtma imalatı. Ana sayfadaki haber kutusunda İller Bankası (Eşme/Uşak AAT kesin proje), Malatya 1. OSB AAT, Taşköprü OSB, Büyükkarıştıran OSB ve Göynücek AAT projeleri geçiyor. Kutunun tarihi 01/11/2020; site 6 yıldır güncellenmemiş görünüyor.",
+  "size_adj": 3,
+  "comm_adj": 3,
+  "next": "Kişiselleştirilmiş e-posta onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#suma",
+  "approach": "Ana sayfadaki 2020 tarihli haber kutusu, İller Bankası ve OSB projeleri olan firmayı 6 yıl geride gösteriyor. Kamu/OSB projelerini harita ve kapasiteyle sunan güncel yapı."
+ },
+ "icmesuyuproje.com": {
+  "district": "",
+  "subsector": "İçme suyu / atıksu arıtma tesisi ve altyapı projelendirme",
+  "summary": "SEDES Mühendislik Mayıs 1992'de Ankara'da kuruldu. İller Bankası başta olmak üzere belediyeler, Çevre Bakanlığı ve OSB'ler için içme suyu ve atıksu arıtma tesisi projeleri; yurt dışı firmalarla iş birliği yapıyor. Site eski tasarımda ve kırık başlık görseli var.",
+  "size_adj": 3,
+  "comm_adj": 2,
+  "email": "info@sedesaltyapiproje.com",
+  "email_status": "Doğrulanmış – resmi web sitesi (farklı kurumsal alan adı)",
+  "email_source": "http://www.icmesuyuproje.com",
+  "notes": "Site alan adı icmesuyuproje.com; e-posta sedesaltyapiproje.com alan adında. İkisi de firmaya ait görünüyor. Gmail adresi de yayında.",
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#sedes",
+  "approach": "1992'den beri İller Bankası, belediye ve OSB projeleri; sitede kırık başlık görseli. Proje portföyü ve yurt dışı iş birliklerini öne çıkaran yapı."
+ },
+ "paynamuhendislik.com": {
+  "district": "Altındağ (Karacaören Sanayi Sitesi, fabrika)",
+  "subsector": "Paket tip atıksu arıtma ve geri kazanım sistemleri imalatı",
+  "summary": "Ankara Altındağ'da fabrikası olan Payna Mühendislik; paket tip atıksu arıtma, çamur susuzlaştırma ve geri kazanım sistemleri, 2018/14 sayılı genelge kapsamında proje onayı. Sitede fiyat listesi ve tamamlanan projeler bölümleri var; tasarım tarihli ve kutular üst üste biniyor.",
+  "size_adj": 2,
+  "comm_adj": 2,
+  "next": "B+ – sonraki tur",
+  "status": "Araştırma tamamlandı"
+ },
+ "armasan.com.tr": {
+  "district": "",
+  "subsector": "Arıtma tesisi projelendirme ve yapım (kamu ağırlıklı)",
+  "summary": "Armasan Arıtma İnşaat Ltd. Şti.; fiziksel, kimyasal ve biyolojik arıtma tesislerinin projelendirilmesi, inşaatı, bakımı. Referanslarında TPAO Batman, Ayvacık (Samsun) Belediyesi, Merzifon OSB AAT ve DHMİ Erzincan Havalimanı tesisi var. Site tarihli kutulu düzende.",
+  "size_adj": 3,
+  "comm_adj": 2,
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#armasan",
+  "approach": "TPAO, DHMİ ve Merzifon OSB gibi kamu referansları sitede küçük metin blokları içinde kayboluyor. Referans odaklı, mobil uyumlu yapı."
+ },
+ "merkezcevre.com.tr": {
+  "district": "Çankaya (Emek Mah.)",
+  "subsector": "Çevre danışmanlık ve mühendislik (maden, sanayi, atık)",
+  "summary": "2011'den beri Ankara'da maden, sanayi ve atık sektörlerine çevre danışmanlığı. Mobil görünümde stiller yüklenmeden ham menü listesi çıkıyor.",
+  "next": "B – sonraki tur",
+  "status": "Araştırma tamamlandı"
+ },
+ "bioekosistem.com": {
+  "district": "",
+  "subsector": "Kentsel/endüstriyel atıksu arıtma, yüzme havuzu, çevre danışmanlık",
+  "summary": "1998'den beri atıksu arıtma ve yüzme havuzu alanında proje, mühendislik, imalat, taahhüt; anahtar teslim çalışma prensibi; çevre danışmanlık referansları da var. Site tarihli ve ilk ekranda büyük boşluk var.",
+  "size_adj": 2,
+  "comm_adj": 1,
+  "next": "E-posta taslağı onaya sun",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#bioekosistem",
+  "approach": "1998'den beri atıksu ve havuz alanında çalışan firmanın ana sayfası soluk ve boşluklu. İki iş kolunu (arıtma, havuz) net ayıran yapı."
+ },
+ "watertek.net": {
+  "city": "İzmir",
+  "subsector": "Su arıtma sistemleri (evsel/sanayi), kimya",
+  "summary": "Rehber kaydına göre 1982'de İzmir'de kurulan TEKNOM KİMYA A.Ş.; şebeke, artezyen, kuyu ve deniz suyu arıtma sistemleri. watertek.net tarayıcı testinde açılamadı.",
+  "notes": "E-posta bulunamadı; site erişimi teyit edilmeli.",
+  "cat_cap": "B",
+  "next": "Site ve iletişim doğrulaması",
+  "status": "Araştırılıyor"
+ },
+ "girisimmuhendislik.com": {
+  "web_status": "A",
+  "subsector": "Havuz ve su arıtma sistemleri, elektromekanik, taahhüt",
+  "summary": "Rehber kaydında havuz temiz su arıtma ve elektromekanik sistemler; proje, taahhüt, danışmanlık, montaj, kimyasal ve servis. Alan adında yalnızca 'Çok Yakında – Web Sitemiz Yenilenmektedir' sayfası var.",
+  "notes": "Site 'yenileniyor' görünüyor: firma başka bir ajansla çalışıyor olabilir. Hızlı ve kısa temas önerilir. Şehir bilgisi doğrulanmadı.",
+  "next": "Kısa e-posta onaya sun (zamanlama kritik)",
+  "status": "Onay bekliyor",
+  "draft_ref": "outreach/eposta_taslaklari.md#girisim",
+  "approach": "Site 'yenileniyor' aşamasında. Kısa ve net teklif; hazır iskeletle hızlı yayına alma vurgusu.",
+  "name": "Girişim Mühendislik Danışmanlık Su Teknolojileri ve İnşaat"
+ },
+ "coskunaritma.com": {
+  "district": "Gebze",
+  "subsector": "Paket biyolojik arıtma (BioCAS) imalatı, endüstriyel/evsel atıksu",
+  "summary": "BioCAS markalı ünitelerle tüm imalatını kendi bünyesinde yaptığını belirten firma; sitede export.eu adresi ve Almanya bağlantılı (ptech-gmbh) bir adres var, yani ihracat yönelimli. Tarayıcı testinde açılamadı ancak HTML erişimi var; tasarım puanı doğrulanmadı.",
+  "size_adj": 3,
+  "comm_adj": 2,
+  "next": "Siteyi elle görsel kontrol et",
+  "status": "Araştırılıyor"
+ },
+ "baharmuhendislik.com": {
+  "subsector": "Su/atıksu arıtma, proses suyu, ekipman imalatı",
+  "summary": "TR/EN/BG/RU dilli site, telif 2020; üretim kapasitesi sayfası var. Tarayıcı testinde açılamadı, HTML erişimi var.",
+  "next": "Siteyi elle görsel kontrol et",
+  "status": "Araştırılıyor"
+ },
+ "nefron.com.tr": {
+  "city": "Antalya",
+  "web_status": "B",
+  "summary": "Rehberde Antalya merkezli su ve atıksu arıtma firması. İnceleme sırasında alan adında cPanel 'SORRY! IP address has changed' hata sayfası vardı; site yayında değil.",
+  "notes": "E-posta bulunamadı.",
+  "cat_cap": "B",
+  "next": "İletişim doğrulaması",
+  "status": "Araştırılıyor"
+ },
+ "doamekanik.com": {
+  "subsector": "Mekanik tesisat taahhüt, tank imalatı, çelik konstrüksiyon",
+  "summary": "Bursa'da mekanik tesisat taahhüt, müşavirlik, atölye imalatı (tank, çelik konstrüksiyon). Sektöre komşu: endüstriyel tank ve proses ekipmanı. Site yerleşim hataları içeriyor (üst alan üst üste biniyor).",
+  "next": "B – sonraki tur",
+  "status": "Onay bekliyor",
+  "approach": "Mekanik tesisat + tank imalatı; üst alan bozuk görünüyor. Atölye kabiliyetini gösteren proje galerisi.",
+  "draft_ref": "outreach/eposta_taslaklari.md#doa"
+ },
+ "kocakcevre.com": {
+  "city": "İstanbul",
+  "district": "Kadıköy (grup merkezi İzmit)",
+  "summary": "1993'te İzmit'te kurulan Koçak Group bünyesinde çevre ve endüstriyel atık yönetimi, taahhüt, YİD projeleri; DOSAB 82.500 m³/gün MBR tesisi projesi referansı. Site güncel görünümlü.",
+  "next": "D – iyi site, öncelik dışı",
+  "status": "Araştırma tamamlandı"
+ },
+ "titas.com.tr": {
+  "summary": "TİTAŞ Temsilcilik İthalat Ticaret ve Sanayi A.Ş. 1986'dan beri SEÖS ve hava kalitesi istasyonları tedarik ediyor (Ankara). Sitede ağır bir yükleme ekranı var; içerik güncel.",
+  "next": "B – sonraki tur",
+  "status": "Onay bekliyor",
+  "approach": "1986'dan beri SEÖS tedarikçisi; ağır yükleme ekranı içeriği geciktiriyor. Hız ve ürün-kapsam odaklı iyileştirme.",
+  "draft_ref": "outreach/eposta_taslaklari.md#titas",
+  "name": "TİTAŞ Temsilcilik İthalat Ticaret ve Sanayi A.Ş."
+ },
+ "esart.com.tr": {
+  "summary": "Eskişehir OSB'nin 24.000 m³/gün atıksu tesisini işleten, Eskişehir Sanayi Odası'nca 2009'da kurulan ESART A.Ş.; akredite laboratuvar.",
+  "comm_adj": -5,
+  "notes": "OSB iştiraki; satın alma ihale/kurul kararıyla yapılabilir.",
+  "next": "B – sonraki tur",
+  "status": "Araştırma tamamlandı"
+ },
+ "vidanjorhizmetleri.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Bireysel/ev odaklı vidanjör hizmeti; gmail kullanımı; küçük ölçek"
+ },
+ "aquaredox.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Havuz ve ev tipi su arıtma ağırlıklı perakende"
+ },
+ "afgsuaritma.com.tr": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Sitedeki gmail adresi firmaya değil tema/font geliştiricisine ait; doğrulanmış e-posta yok"
+ },
+ "adanasuaritma.net": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Perakende su arıtma satış/servis"
+ },
+ "aksuaritim.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Perakende su arıtma cihazı ağırlıklı"
+ },
+ "waterpak.com.tr": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Perakende su arıtma"
+ },
+ "temizsu.com.tr": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Faaliyet kapsamı ve sitesi doğrulanamadı"
+ },
+ "starsuaritma.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Perakende su arıtma"
+ },
+ "malatyasuaritma.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Perakende/servis ağırlıklı"
+ },
+ "dipolkimya.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Kimya distribütörü; sektör çekirdeği dışında"
+ },
+ "eskisehirsuaritma.com": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Perakende ağırlıklı (ev tipi ürünler)"
+ },
+ "kostik.info.tr": {
+  "cat_cap": "B",
+  "comm_adj": -4,
+  "notes": "Kostik/kimyasal satışı; sektör çekirdeği dışında; e-posta yok"
+ },
+ "paketaritmatesisleri.com": {
+  "duplicate_of": "arsistek.com"
+ },
+ "vontronmembran.com.tr": {
+  "duplicate_of": "filtox.com"
+ },
+ "suaritmacihazin.com": {
+  "duplicate_of": "wateraritma.com"
+ }
+}

@@ -1,0 +1,6 @@
+data/shots/
+data/shots_v/
+data/sheets/
+data/pages/
+__pycache__/
+*.pyc

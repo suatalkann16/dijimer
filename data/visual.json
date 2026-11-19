@@ -1,0 +1,916 @@
+{
+ "agtsuaritma.com.tr": {
+  "grade": 2,
+  "note": "Yeni ama içi boş şablon: 'Haberler/Devam eden projeler' bölümleri boş, kurumsal içerik çok zayıf",
+  "lead_id": "DJ-ENV-049"
+ },
+ "aykosan.com.tr": {
+  "grade": 2,
+  "note": "2010'lar tarzı tasarım; mobilde masaüstü sayfa küçültülerek gösteriliyor (responsive değil); yoğun küçük yazılar",
+  "lead_id": "DJ-ENV-087"
+ },
+ "aquaredox.com": {
+  "grade": 1,
+  "note": "Bozuk/şablonsuz görünüm: dev logo, madde işaretli ham menü listesi; amatör",
+  "lead_id": "DJ-ENV-059"
+ },
+ "bdkaritma.com": {
+  "grade": 3,
+  "note": "İnceleme sırasında '508 Insufficient Resource' hosting hatası verdi (ilk denemede açılmıştı); erişim kesintili",
+  "lead_id": "DJ-ENV-098"
+ },
+ "naturelife.com.tr": {
+  "grade": 3,
+  "note": "Tüketici odaklı abonelik sitesi (B2B değil)",
+  "lead_id": "DJ-ENV-185"
+ },
+ "oscarsuaritma.com": {
+  "grade": 2,
+  "note": "Ana sayfa doğrudan ödeme formu; kurumsal içerik yok (bayi/perakende)",
+  "lead_id": "DJ-ENV-190"
+ },
+ "denkaycevre.com": {
+  "grade": 5,
+  "note": "Modern, güncel, responsive; iyi kurgulanmış",
+  "lead_id": "DJ-ENV-013"
+ },
+ "kocakcevre.com": {
+  "grade": 4,
+  "note": "Modern fotoğraflı tasarım, responsive",
+  "lead_id": "DJ-ENV-021"
+ },
+ "emsa.com.tr": {
+  "grade": 1,
+  "note": "2000'ler dönemi tasarım; tablo tabanlı düzen, mobilde küçültülmüş masaüstü; çok eski görünüm",
+  "lead_id": "DJ-ENV-134"
+ },
+ "etkincevre.com": {
+  "grade": 3,
+  "note": "Hazır şablon, makul ama jenerik stok görsel",
+  "lead_id": "DJ-ENV-141"
+ },
+ "gedikoglu.com.tr": {
+  "grade": 3,
+  "note": "Kalabalık e-ticaret şablonu; makul",
+  "lead_id": "DJ-ENV-147"
+ },
+ "nefron.com.tr": {
+  "grade": 1,
+  "note": "Site yayında değil: cPanel 'SORRY! IP address has changed' hata sayfası",
+  "lead_id": "DJ-ENV-187"
+ },
+ "malatyasuaritma.com": {
+  "grade": 3,
+  "note": "Hazır slider şablonu; orta",
+  "lead_id": "DJ-ENV-152"
+ },
+ "afgsuaritma.com.tr": {
+  "grade": 2,
+  "note": "Masaüstü kabul edilebilir; mobil görünümde içerik boş geliyor (mobil sorun)",
+  "lead_id": "DJ-ENV-048"
+ },
+ "icmesuyuproje.com": {
+  "grade": 2,
+  "note": "Eski tasarım, kırık/boş başlık görseli, dağınık düzen",
+  "lead_id": "DJ-ENV-210"
+ },
+ "bursalividanjor.com": {
+  "grade": 5,
+  "note": "Modern, güçlü kurumsal tasarım",
+  "lead_id": "DJ-ENV-004"
+ },
+ "gesu.com.tr": {
+  "grade": 5,
+  "note": "Modern, kapsamlı, profesyonel",
+  "lead_id": "DJ-ENV-016"
+ },
+ "argoncevre.com": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-077"
+ },
+ "raintag.com.tr": {
+  "grade": 3,
+  "note": "Tüketici odaklı ürün sitesi; orta seviye şablon",
+  "lead_id": "DJ-ENV-204"
+ },
+ "boracevre.com": {
+  "grade": 2,
+  "note": "Bulanık, düşük kontrastlı slider; başlık okunmuyor; eski şablon hissi",
+  "lead_id": "DJ-ENV-006"
+ },
+ "mefaaritma.com": {
+  "grade": 2,
+  "note": "Düz mor arka planlı amatör görünüm; kurumsal güç yansımıyor (referans logoları var: Bursa Büyükşehir vb.)",
+  "lead_id": "DJ-ENV-028"
+ },
+ "aritici.com": {
+  "grade": 4,
+  "note": "Modern, ürün ve hizmet odaklı",
+  "lead_id": "DJ-ENV-085"
+ },
+ "massaritma.com": {
+  "grade": 2,
+  "note": "Masaüstünde ana sayfa büyük boş alanla açılıyor (yerleşim hatası); 50 yıllık firma için zayıf ilk izlenim",
+  "lead_id": "DJ-ENV-175"
+ },
+ "sgscevre.com": {
+  "grade": 2,
+  "note": "Eski düzen, stok baca görseli; kurumsal fakat tarihli",
+  "lead_id": "DJ-ENV-212"
+ },
+ "doamekanik.com": {
+  "grade": 2,
+  "note": "Masaüstü ve mobilde üst alan bozuk/üst üste binmiş; gri boş kutu; düzen hatalı",
+  "lead_id": "DJ-ENV-011"
+ },
+ "aquadestech.com": {
+  "grade": 3,
+  "note": "Ana sayfa dev yazı animasyonu ile açılıyor; içerik ilk ekranda görünmüyor",
+  "lead_id": "DJ-ENV-115"
+ },
+ "slyaritma.com": {
+  "grade": 3,
+  "note": "Hazır şablon; başlık metni görselin üstüne taşıyor, mobilde aşırı büyük başlık",
+  "lead_id": "DJ-ENV-213"
+ },
+ "cevrearitim.com.tr": {
+  "grade": 3,
+  "note": "Makul şablon; mobil görüntü boş geldi (doğrulanmalı)",
+  "lead_id": "DJ-ENV-257"
+ },
+ "dngcev.com": {
+  "grade": 3,
+  "note": "Hazır şablon, makul",
+  "lead_id": "DJ-ENV-010"
+ },
+ "naturelgeridonusum.com": {
+  "grade": 3,
+  "note": "Sade, biraz tarihli ama düzgün",
+  "lead_id": "DJ-ENV-029"
+ },
+ "adanasuaritma.net": {
+  "grade": 2,
+  "note": "Basit, eski slider şablonu (perakende bayi)",
+  "lead_id": "DJ-ENV-050"
+ },
+ "envir.com.tr": {
+  "grade": 3,
+  "note": "Soluk/yıkanmış hero görseli; orta",
+  "lead_id": "DJ-ENV-138"
+ },
+ "temizsu.com.tr": {
+  "grade": 2,
+  "note": "Ana sayfa iki denemede de yalnız logo ile boş açıldı (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)"
+ },
+ "arminatik.com": {
+  "grade": 3,
+  "note": "Yükleme ekranı uzun; mobil görünüm makul",
+  "lead_id": "DJ-ENV-002"
+ },
+ "bbaritim.com": {
+  "grade": 5,
+  "note": "Modern, özgün tasarım",
+  "lead_id": "DJ-ENV-005"
+ },
+ "serenmuhendislik.com.tr": {
+  "grade": 2,
+  "note": "Telif © 2017, tarihli yapı; tarayıcı testinde ana sayfa boş beyaz göründü (ortam kaynaklı olabilir, teyit edilmeli)"
+ },
+ "akarecevre.com": {
+  "grade": 3,
+  "note": "Düzgün ama tarihli şablon",
+  "lead_id": "DJ-ENV-069"
+ },
+ "bioekosistem.com": {
+  "grade": 2,
+  "note": "Tarihli tasarım, soluk slider, ilk ekranda büyük boşluk; 1998'den beri faaliyet gösteren firmayı yansıtmıyor",
+  "lead_id": "DJ-ENV-101"
+ },
+ "starsuaritma.com": {
+  "grade": 2,
+  "note": "Perakende cihaz sitesi, tarihli",
+  "lead_id": "DJ-ENV-151"
+ },
+ "konyasuaritmaci.com": {
+  "grade": 2,
+  "note": "Kalabalık, amatör görsel dil (perakende)",
+  "lead_id": "DJ-ENV-161"
+ },
+ "paketaritmatesisleri.com": {
+  "grade": 3,
+  "note": "Tarihli slider şablonu",
+  "lead_id": "DJ-ENV-195"
+ },
+ "kostik.info.tr": {
+  "grade": 1,
+  "note": "2000'ler dönemi düzen: turuncu kenarlıklar, sol menü listesi, tablo düzeni",
+  "lead_id": "DJ-ENV-201"
+ },
+ "sumaltd.com": {
+  "grade": 1,
+  "note": "Ana sayfa orman fotoğrafı üzerinde 01/11/2020 tarihli 'Güncel Haberler' açılır penceresiyle açılıyor; içerik 6 yıllık; çok eski görünüm",
+  "lead_id": "DJ-ENV-215"
+ },
+ "kaya-paslanmaz.com": {
+  "grade": 3,
+  "note": "Makul kurumsal şablon",
+  "lead_id": "DJ-ENV-020"
+ },
+ "deltaaritma.com.tr": {
+  "grade": 4,
+  "note": "Düzgün, güncel kurumsal görünüm",
+  "lead_id": "DJ-ENV-117"
+ },
+ "egedurukimya.com": {
+  "grade": 2,
+  "note": "Düz metin ağırlıklı, tarihli düzen",
+  "lead_id": "DJ-ENV-122"
+ },
+ "ekocevrearitma.com": {
+  "grade": 3,
+  "note": "Tarihli ama düzenli",
+  "lead_id": "DJ-ENV-132"
+ },
+ "waterpak.com.tr": {
+  "grade": 2,
+  "note": "Masaüstünde sayfa yüklenemedi (boş); perakende (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-240"
+ },
+ "kurtsanpaslanmaz.com": {
+  "grade": 3,
+  "note": "Kalabalık şablon (gıda makinesi odaklı)",
+  "lead_id": "DJ-ENV-022"
+ },
+ "paketaritma.net": {
+  "grade": 3,
+  "note": "Makul, biraz tarihli",
+  "lead_id": "DJ-ENV-064"
+ },
+ "akencevre.com": {
+  "grade": 3,
+  "note": "Minimal şablon, içerik ilk ekranda yok",
+  "lead_id": "DJ-ENV-070"
+ },
+ "citymakine.com": {
+  "grade": 1,
+  "note": "2000'ler dönemi tasarım: küçük yazılar, yoğun sol menü listesi, dar sabit genişlik; ihracat yapan üretici için çok zayıf vitrin",
+  "lead_id": "DJ-ENV-111"
+ },
+ "egesis.com.tr": {
+  "grade": 3,
+  "note": "Düzgün ama tarihli slider",
+  "lead_id": "DJ-ENV-123"
+ },
+ "titas.com.tr": {
+  "grade": 2,
+  "note": "Ağır yükleme ekranı ('Yükleniyor') iki denemede de içerik önünde kaldı (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)"
+ },
+ "hidrofilkimya.net": {
+  "grade": 4,
+  "note": "Güncel, temiz kurumsal görünüm",
+  "lead_id": "DJ-ENV-019"
+ },
+ "ekotrend.com.tr": {
+  "grade": 3,
+  "note": "Hazır şablon, stok görsel",
+  "lead_id": "DJ-ENV-131"
+ },
+ "ttaritma.com": {
+  "grade": 3,
+  "note": "Tarihli üst menü; mobil görünüm boş geldi",
+  "lead_id": "DJ-ENV-228"
+ },
+ "cevtas.com.tr": {
+  "grade": 1,
+  "note": "Çok tarihli kutu düzen, küçük dar içerik alanı; 35 yıllık A.Ş. için zayıf vitrin",
+  "lead_id": "DJ-ENV-256"
+ },
+ "marscevre.com": {
+  "grade": 3,
+  "note": "Masaüstünde yükleme animasyonunda kalıyor; mobil makul (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-027"
+ },
+ "armaritma.com": {
+  "grade": 3,
+  "note": "Düşük kontrastlı başlık; orta",
+  "lead_id": "DJ-ENV-061"
+ },
+ "eskisehirsuaritma.com": {
+  "grade": 2,
+  "note": "Perakende ağırlıklı, kalabalık amatör görsel dil",
+  "lead_id": "DJ-ENV-129"
+ },
+ "econorm.com.tr": {
+  "grade": 3,
+  "note": "Açılışta karartılmış katman/yükleme; içerik ilk ekranda görünmüyor",
+  "lead_id": "DJ-ENV-130"
+ },
+ "mayersuaritma.com": {
+  "grade": 4,
+  "note": "Güncel, profesyonel",
+  "lead_id": "DJ-ENV-176"
+ },
+ "springsuaritma.com.tr": {
+  "grade": 4,
+  "note": "Güncel tasarım",
+  "lead_id": "DJ-ENV-218"
+ },
+ "cnrcoaritma.com.tr": {
+  "grade": 3,
+  "note": "Hazır şablon; menü hizası bozuk",
+  "lead_id": "DJ-ENV-108"
+ },
+ "duocevre.com": {
+  "grade": 2,
+  "note": "Seyrek, dağınık düzen; boş alanlar; tarihli",
+  "lead_id": "DJ-ENV-116"
+ },
+ "pentaotomasyon.com.tr": {
+  "grade": 4,
+  "note": "Güncel, profesyonel",
+  "lead_id": "DJ-ENV-197"
+ },
+ "afyonsuaritma.com": {
+  "grade": 3,
+  "note": "Perakende ürün şablonu",
+  "lead_id": "DJ-ENV-211"
+ },
+ "dmmmakine.com": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-009"
+ },
+ "birwater.com.tr": {
+  "grade": 3,
+  "note": "Tüketici odaklı şablon",
+  "lead_id": "DJ-ENV-104"
+ },
+ "hkmakine.com.tr": {
+  "grade": 4,
+  "note": "Güncel şablon, makul",
+  "lead_id": "DJ-ENV-154"
+ },
+ "hidrotekwater.com.tr": {
+  "grade": 4,
+  "note": "Güncel (perakende cihaz)",
+  "lead_id": "DJ-ENV-157"
+ },
+ "yilcedmuhendislik.com.tr": {
+  "grade": 3,
+  "note": "Makul, illüstrasyon ağırlıklı",
+  "lead_id": "DJ-ENV-040"
+ },
+ "avekacevre.com": {
+  "grade": 2,
+  "note": "Açılışta büyük siyah alan (görsel/video yüklenmiyor); İngilizce menü, Türkçe içerik zayıf",
+  "lead_id": "DJ-ENV-065"
+ },
+ "arsistek.com": {
+  "grade": 5,
+  "note": "Modern, kapsamlı",
+  "lead_id": "DJ-ENV-079"
+ },
+ "komesli.com.tr": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-165"
+ },
+ "merkezcevre.com.tr": {
+  "grade": 2,
+  "note": "Mobil görünüm bozuk: stil yüklenmeden ham madde işaretli menü listesi; masaüstü tarihli",
+  "lead_id": "DJ-ENV-173"
+ },
+ "gisacevre.com": {
+  "grade": 4,
+  "note": "Modern koyu tema, referans logoları",
+  "lead_id": "DJ-ENV-018"
+ },
+ "akfenmuhendislik.com": {
+  "grade": 3,
+  "note": "Makul şablon",
+  "lead_id": "DJ-ENV-071"
+ },
+ "anatoliakimya.com": {
+  "grade": 3,
+  "note": "İngilizce ağırlıklı, ilk ekranda boşluk",
+  "lead_id": "DJ-ENV-073"
+ },
+ "manisasuaritma.com": {
+  "grade": 3,
+  "note": "Perakende servis odaklı",
+  "lead_id": "DJ-ENV-174"
+ },
+ "ibozek.com": {
+  "grade": 4,
+  "note": "Güncel (perakende)",
+  "lead_id": "DJ-ENV-261"
+ },
+ "atlantiksuaritma.com": {
+  "grade": 3,
+  "note": "Makul şablon",
+  "lead_id": "DJ-ENV-003"
+ },
+ "gkmkimya.com": {
+  "grade": 4,
+  "note": "Güncel, temiz",
+  "lead_id": "DJ-ENV-017"
+ },
+ "karbulsuaritma.com": {
+  "grade": 4,
+  "note": "Güncel",
+  "lead_id": "DJ-ENV-163"
+ },
+ "ncssuaritma.com": {
+  "grade": 2,
+  "note": "Kalabalık e-ticaret şablonu, tarihli (perakende)",
+  "lead_id": "DJ-ENV-182"
+ },
+ "ovasuaritma.com": {
+  "grade": 3,
+  "note": "Perakende e-ticaret",
+  "lead_id": "DJ-ENV-191"
+ },
+ "alfachem.com.tr": {
+  "grade": 3,
+  "note": "Açılışta video pop-up içerik önünde",
+  "lead_id": "DJ-ENV-072"
+ },
+ "planettek-tr.com": {
+  "grade": 3,
+  "note": "İngilizce ağırlıklı; sektörle ilgisiz stok aile fotoğrafı",
+  "lead_id": "DJ-ENV-198"
+ },
+ "usaksuaritma.com": {
+  "grade": 1,
+  "note": "Şablon 'Lorem ipsum' dolgu metinleri yayında; gmail adresi",
+  "lead_id": "DJ-ENV-235"
+ },
+ "bursasuaritmasistemleri.com.tr": {
+  "grade": 2,
+  "note": "Soluk/beyaz örtülü görünüm, içerik okunmuyor (perakende)",
+  "lead_id": "DJ-ENV-008"
+ },
+ "kureselcevre.com.tr": {
+  "grade": 3,
+  "note": "Sade, makul",
+  "lead_id": "DJ-ENV-023"
+ },
+ "plussuaritma.com": {
+  "grade": 3,
+  "note": "Makul şablon",
+  "lead_id": "DJ-ENV-199"
+ },
+ "suaritmaservisin.com": {
+  "grade": 1,
+  "note": "Sayfa üstünde PHP 'Warning' hata mesajı görünüyor",
+  "lead_id": "DJ-ENV-160"
+ },
+ "paynamuhendislik.com": {
+  "grade": 2,
+  "note": "Tarihli slider, üst üste binen kutular; fabrika sahibi üretici için zayıf vitrin",
+  "lead_id": "DJ-ENV-196"
+ },
+ "suviss.com": {
+  "grade": 1,
+  "note": "Alan adı park edilmiş (Epik parking) – aktif site yok",
+  "lead_id": "DJ-ENV-222"
+ },
+ "izmirsuaritma.com.tr": {
+  "grade": 3,
+  "note": "Seyrek ama düzenli",
+  "lead_id": "DJ-ENV-265"
+ },
+ "wateraeg.com.tr": {
+  "grade": 3,
+  "note": "Perakende kampanya şablonu",
+  "lead_id": "DJ-ENV-239"
+ },
+ "rainwater.com.tr": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-032"
+ },
+ "hyundaiaritma.com.tr": {
+  "grade": 2,
+  "note": "Sayfa mavi boş ekranda kalıyor (yükleme) (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-255"
+ },
+ "vortexaritma.com": {
+  "grade": 1,
+  "note": "Cloudflare 'Web server is down' (521) – site çalışmıyor",
+  "lead_id": "DJ-ENV-237"
+ },
+ "erccevre.com.tr": {
+  "grade": 2,
+  "note": "Masaüstünde ana görsel alanı boş gri; mobilde düşük kontrast",
+  "lead_id": "DJ-ENV-126"
+ },
+ "izmirendustriyelsuaritma.com.tr": {
+  "grade": 3,
+  "note": "E-ticaret şablonu",
+  "lead_id": "DJ-ENV-264"
+ },
+ "girisimmuhendislik.com": {
+  "grade": 1,
+  "note": "Site yok: yalnızca 'Web Sitemiz Yenilenmektedir' sayfası yayında",
+  "lead_id": "DJ-ENV-150"
+ },
+ "semsu.com.tr": {
+  "grade": 1,
+  "note": "Site saldırıya uğramış görünüyor: ana sayfada yabancı 'ByPass3d by GaSSpEr' deface sayfası (güvenlik sorunu, hata sayfası)",
+  "lead_id": "DJ-ENV-217"
+ },
+ "enginmuh.com": {
+  "grade": 1,
+  "note": "Çok eski dar sabit düzen, küçük yoğun metin; mobil uyumsuz",
+  "lead_id": "DJ-ENV-136"
+ },
+ "dizaynsuaritma.com": {
+  "grade": 3,
+  "note": "Makul ürün şablonu",
+  "lead_id": "DJ-ENV-118"
+ },
+ "vidanjorhizmetleri.com": {
+  "grade": 2,
+  "note": "Tarihli şablon, gmail adresi (vidanjör)",
+  "lead_id": "DJ-ENV-238"
+ },
+ "megasuaritma.com": {
+  "grade": 1,
+  "note": "Çok eski Flash tabanlı site: 'Couldn't load plugin' alanları; mobil uyumsuz",
+  "lead_id": "DJ-ENV-171"
+ },
+ "aesaritma.com.tr": {
+  "grade": 2,
+  "note": "Eski Bootstrap 3 şablonu, 'Toggle navigation' metni görünüyor; içerik zayıf",
+  "lead_id": "DJ-ENV-047"
+ },
+ "esart.com.tr": {
+  "grade": 2,
+  "note": "Tarihli düzen",
+  "lead_id": "DJ-ENV-127"
+ },
+ "detayaritma.com": {
+  "grade": 3,
+  "note": "Makul, büyük görsel",
+  "lead_id": "DJ-ENV-254"
+ },
+ "armes.com.tr": {
+  "grade": 4,
+  "note": "Güncel, referans logoları",
+  "lead_id": "DJ-ENV-063"
+ },
+ "tidap.com.tr": {
+  "grade": 1,
+  "note": "Site yok: alan adında yalnızca hosting varsayılan sayfası ('Something amazing will be constructed here') hata sayfası",
+  "lead_id": "DJ-ENV-233"
+ },
+ "cevre-yapi.com": {
+  "grade": 4,
+  "note": "Güncel kurumsal görünüm",
+  "lead_id": "DJ-ENV-258"
+ },
+ "alangu.com.tr": {
+  "grade": 3,
+  "note": "Sektör dışı elektronik ürün sitesine dönüşmüş görünüyor",
+  "lead_id": "DJ-ENV-056"
+ },
+ "biotek.com.tr": {
+  "grade": 3,
+  "note": "Tarihli ama düzenli",
+  "lead_id": "DJ-ENV-102"
+ },
+ "watertek.net": {
+  "grade": 2,
+  "note": "Sayfa boş render oluyor (doğrulanmalı) (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-224"
+ },
+ "aksuaritim.com": {
+  "grade": 2,
+  "note": "Masaüstünde ana alan boş gri; perakende",
+  "lead_id": "DJ-ENV-054"
+ },
+ "anadolucevre.com": {
+  "grade": 3,
+  "note": "Makul, büyük proje fotoğrafı",
+  "lead_id": "DJ-ENV-058"
+ },
+ "aritmax.com": {
+  "grade": 1,
+  "note": "Alan adı satışta (GoDaddy 'forsale' yönlendirmesi) – site yok; firmanın faaliyeti doğrulanmalı",
+  "lead_id": "DJ-ENV-083"
+ },
+ "kazancioglu.com": {
+  "grade": 3,
+  "note": "Sektörle ilgisiz stok görsel, tarihli şablon",
+  "lead_id": "DJ-ENV-159"
+ },
+ "tdanismanlik.com": {
+  "grade": 1,
+  "note": "Alan adı park edilmiş (GoDaddy) – site yok; firmanın faaliyeti doğrulanmalı",
+  "lead_id": "DJ-ENV-223"
+ },
+ "armasan.com.tr": {
+  "grade": 2,
+  "note": "Tarihli kutu düzen, küçük metin blokları",
+  "lead_id": "DJ-ENV-078"
+ },
+ "ozotek.com": {
+  "grade": 1,
+  "note": "Alan adı satışta (GoDaddy) – site yok; firmanın faaliyeti doğrulanmalı",
+  "lead_id": "DJ-ENV-230"
+ },
+ "aresaritma.com": {
+  "grade": 1,
+  "note": "Alan adı satışta (GoDaddy) – site yok; firmanın faaliyeti doğrulanmalı",
+  "lead_id": "DJ-ENV-246"
+ },
+ "waterbox.com": {
+  "grade": 3,
+  "note": "Tüketici odaklı kampanya sitesi",
+  "lead_id": "DJ-ENV-038"
+ },
+ "ariaritimltd.com": {
+  "grade": 1,
+  "note": "Site yok: alan adında Plesk varsayılan hosting sayfası (hata sayfası)",
+  "lead_id": "DJ-ENV-082"
+ },
+ "asyaliplastik.com": {
+  "grade": 4,
+  "note": "Güncel",
+  "lead_id": "DJ-ENV-086"
+ },
+ "suaritmacihazin.com": {
+  "grade": 3,
+  "note": "Perakende servis sitesi",
+  "lead_id": "DJ-ENV-100"
+ },
+ "filtox.com": {
+  "grade": 4,
+  "note": "Güncel, kurumsal",
+  "lead_id": "DJ-ENV-144"
+ },
+ "ketsaritim.net": {
+  "grade": 3,
+  "note": "Makul şablon, siyah boş hero",
+  "lead_id": "DJ-ENV-168"
+ },
+ "mixriteturkey.com": {
+  "grade": 1,
+  "note": "Eski Flash tabanlı site ('Couldn't load plugin'), mobil uyumsuz",
+  "lead_id": "DJ-ENV-179"
+ },
+ "idealwater.com": {
+  "grade": 3,
+  "note": "Makul, büyük görsel; tarihli menü",
+  "lead_id": "DJ-ENV-263"
+ },
+ "sukentcevre.com": {
+  "grade": 2,
+  "note": "Tarihli hazır şablon, sektörle ilgisiz şehir silueti, düşük kontrast",
+  "lead_id": "DJ-ENV-041"
+ },
+ "dipolkimya.com": {
+  "grade": 2,
+  "note": "Sayfa boş render oluyor (doğrulanmalı) (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-120"
+ },
+ "kuzugrup.com": {
+  "grade": 5,
+  "note": "Modern büyük kurumsal site",
+  "lead_id": "DJ-ENV-167"
+ },
+ "ilsuaritma.com": {
+  "grade": 2,
+  "note": "Tarihli e-ticaret listesi (perakende)",
+  "lead_id": "DJ-ENV-262"
+ },
+ "karadayividanjor.com": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-158"
+ },
+ "paksuaritma.com": {
+  "grade": 2,
+  "note": "Tarihli düzen, büyük boşluklar",
+  "lead_id": "DJ-ENV-192"
+ },
+ "pusulaltd.com": {
+  "grade": 5,
+  "note": "Modern, özgün",
+  "lead_id": "DJ-ENV-203"
+ },
+ "klimart.com.tr": {
+  "grade": 1,
+  "note": "Çok eski düzen (klima servisi, sektör dışı)",
+  "lead_id": "DJ-ENV-250"
+ },
+ "dengearitma.com": {
+  "grade": 4,
+  "note": "Güncel",
+  "lead_id": "DJ-ENV-114"
+ },
+ "aquamab.com.tr": {
+  "grade": 4,
+  "note": "Güncel (perakende cihaz ağırlıklı)",
+  "lead_id": "DJ-ENV-090"
+ },
+ "bilcev.com.tr": {
+  "grade": 3,
+  "note": "Kalabalık, tarihli slider ama kapsamlı",
+  "lead_id": "DJ-ENV-106"
+ },
+ "minerasuaritma.com": {
+  "grade": 1,
+  "note": "Alan adı yabancı kumar/spam sitesine dönüşmüş – firmanın aktif sitesi yok (hata sayfası)",
+  "lead_id": "DJ-ENV-178"
+ },
+ "cukurovahavuz.com": {
+  "grade": 3,
+  "note": "Makul (havuz)",
+  "lead_id": "DJ-ENV-260"
+ },
+ "aqua.com.tr": {
+  "grade": 3,
+  "note": "Tarihli ama düzenli",
+  "lead_id": "DJ-ENV-074"
+ },
+ "artima.com.tr": {
+  "grade": 3,
+  "note": "Gün batımı stok görsel, makul",
+  "lead_id": "DJ-ENV-081"
+ },
+ "caninsaat.com.tr": {
+  "grade": 4,
+  "note": "Güncel (sektör dışı inşaat)",
+  "lead_id": "DJ-ENV-110"
+ },
+ "enessu.com": {
+  "grade": 2,
+  "note": "Basit e-ticaret şablonu (perakende)",
+  "lead_id": "DJ-ENV-135"
+ },
+ "gamasuaritma.com": {
+  "grade": 4,
+  "note": "Güncel",
+  "lead_id": "DJ-ENV-146"
+ },
+ "gnsaritma.com": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-148"
+ },
+ "santem.com": {
+  "grade": 5,
+  "note": "Modern, profesyonel",
+  "lead_id": "DJ-ENV-216"
+ },
+ "elinsancevre.com": {
+  "grade": 2,
+  "note": "Tek ekranlık stok görsel ve büyük başlık; içerik/hizmet sunumu zayıf; A.Ş. ölçeğini yansıtmıyor",
+  "lead_id": "DJ-ENV-124"
+ },
+ "wateraritma.com": {
+  "grade": 2,
+  "note": "Perakende ürün görselleri dağınık",
+  "lead_id": "DJ-ENV-219"
+ },
+ "akinsuaritma.com": {
+  "grade": 3,
+  "note": "Perakende ürün slider",
+  "lead_id": "DJ-ENV-053"
+ },
+ "bwtaltek.com.tr": {
+  "grade": 2,
+  "note": "Sayfa boş/yükleme ekranında kalıyor (doğrulanmalı) (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-095"
+ },
+ "baysalaritma.com": {
+  "grade": 3,
+  "note": "Yalnız İngilizce açılış, gri boş hero; makul",
+  "lead_id": "DJ-ENV-097"
+ },
+ "berraksu.sistemleri.com": {
+  "grade": 2,
+  "note": "Sayfa boş render oluyor (doğrulanmalı) (tarayıcı testinde görüldü; ortam kaynaklı olabilir, teyit edilmeli)",
+  "lead_id": "DJ-ENV-099"
+ },
+ "aktifaritma.com": {
+  "grade": 2,
+  "note": "Açılışta tam ekran yükleme katmanı; içerik soluk/geç görünüyor"
+ },
+ "bogazicisu.com": {
+  "grade": 3,
+  "note": "Giriş ekranı (evsel/endüstriyel seçimi)",
+  "lead_id": "DJ-ENV-105"
+ },
+ "polywetskimya.com": {
+  "grade": 3,
+  "note": "Makul",
+  "lead_id": "DJ-ENV-200"
+ },
+ "rosuaritma.com": {
+  "grade": 3,
+  "note": "E-ticaret şablonu",
+  "lead_id": "DJ-ENV-207"
+ },
+ "ftr.com.tr": {
+  "grade": 3,
+  "note": "Makul (sektör dışı döküm/makina ağırlıklı)",
+  "lead_id": "DJ-ENV-143"
+ },
+ "novapool.com.tr": {
+  "grade": 5,
+  "note": "Modern, uluslararası",
+  "lead_id": "DJ-ENV-188"
+ },
+ "akgediksuaritma.com": {
+  "grade": 3,
+  "note": "Sade, güncel ama içerik az (perakende)",
+  "lead_id": "DJ-ENV-052"
+ },
+ "hsc.com.tr": {
+  "grade": 3,
+  "note": "Kalabalık ama güncel şablon",
+  "lead_id": "DJ-ENV-155"
+ },
+ "avsumay.com.tr": {
+  "grade": 2,
+  "note": "Kalabalık e-ticaret, amatör görsel dil (perakende)",
+  "lead_id": "DJ-ENV-247"
+ },
+ "nursuadana.com": {
+  "grade": 2,
+  "note": "Masaüstünde ana alan boş; görseller yüklenmiyor",
+  "lead_id": "DJ-ENV-184"
+ },
+ "aquaturk.com.tr": {
+  "grade": 3,
+  "note": "Perakende cihaz sitesi",
+  "lead_id": "DJ-ENV-075"
+ },
+ "dogasuaritma.com": {
+  "grade": 4,
+  "note": "Güncel (perakende)",
+  "lead_id": "DJ-ENV-119"
+ },
+ "karakasvidanjor.com": {
+  "grade": 4,
+  "note": "Güncel (vidanjör)",
+  "lead_id": "DJ-ENV-249"
+ },
+ "akararitim.com": {
+  "grade": 2,
+  "note": "Masaüstünde ilk ekran tamamen boş, içerik aşağıda başlıyor (yerleşim hatası)",
+  "lead_id": "DJ-ENV-068"
+ },
+ "nozbart.com": {
+  "grade": 3,
+  "note": "E-ticaret, açılışta büyük kampanya pop-up'ı",
+  "lead_id": "DJ-ENV-189"
+ },
+ "artemisaritim.com": {
+  "grade": 3,
+  "note": "Kolaj görsel, kalabalık ama güncel",
+  "lead_id": "DJ-ENV-080"
+ },
+ "vontronmembran.com.tr": {
+  "grade": 4,
+  "note": "Güncel",
+  "lead_id": "DJ-ENV-236"
+ },
+ "waterstation.com.tr": {
+  "grade": 4,
+  "note": "Güncel (perakende)",
+  "lead_id": "DJ-ENV-241"
+ },
+ "mcyaritma.com": {
+  "grade": 4,
+  "note": "Güncel, ürün odaklı modern tasarım"
+ },
+ "yesilcevre.com.tr": {
+  "grade": 2,
+  "note": "Ana görsel alanı beyaz/boş, metin neredeyse görünmüyor; 100 bin m³/gün kapasiteli kooperatifi yansıtmıyor"
+ },
+ "ekoced.com.tr": {
+  "grade": 4,
+  "note": "Güncel tasarım"
+ },
+ "netcevre.com": {
+  "grade": 3,
+  "note": "Hazır şablon, sektörle ilgisiz manzara görseli"
+ },
+ "burkasan.com": {
+  "grade": 2,
+  "note": "Ana sayfa neredeyse boş: koyu zemin üzerinde yalnız 'Burkasan' ve 'Contact Us'; menü İngilizce, içerik yok"
+ },
+ "cedfem.com.tr": {
+  "grade": 4,
+  "note": "Güncel tasarım"
+ },
+ "escem.com.tr": {
+  "grade": 3,
+  "note": "Koyu, sade tasarım; makul"
+ }
+}
