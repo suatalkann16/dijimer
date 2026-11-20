@@ -228,7 +228,7 @@ def main():
             "standart_kapsam": mo.get("scope", "Standart kurumsal site (40.000 TL + KDV) uygun"),
             "satis_yaklasimi": mo.get("approach", ""),
             "eposta_taslagi": mo.get("draft_ref", ""),
-            "gonderim_durumu": "Gönderilmedi",
+            "gonderim_durumu": mo.get("sent", "Gönderilmedi"),
             "demo_durumu": mo.get("demo", "Yok"),
             "durum": mo.get("status") or ("E-posta bulundu" if email else "Araştırılıyor"),
             "sonraki_islem": mo.get("next", ""),

@@ -460,5 +460,25 @@
  },
  "suaritmacihazin.com": {
   "duplicate_of": "wateraritma.com"
+ },
+ "cevre-yapi.com": {
+  "name": "Çevre Yapı Arıtma Sistemleri San. ve Tic. Ltd. Şti.",
+  "city": "Bursa",
+  "district": "Nilüfer (Altınşehir Mah.)",
+  "subsector": "Endüstriyel/evsel atıksu arıtma tesisi taahhüt, işletme, proses suyu",
+  "phone": "+90 (224) 443 58 95",
+  "email": "info@cevre-yapi.com",
+  "email_status": "Doğrulanmış – resmi web sitesi",
+  "email_source": "cevre-yapi.com iletişim sayfası (finans@cevre-yapi.com adresine de gönderildi)",
+  "summary": "2006'da Çağlar Özçelikler'in kurduğu atıksu arıtma mühendislik ve taahhüt firması; 2026'da 20. yılında. ~30 çalışan (6 çevre, 2 inşaat mühendisi). Resmi proje listesinde 98 tesis, toplam 137.096 m³/gün, 24 il, 5 ülke. Müşteriler: 18 OSB, 11 belediye/kamu ve büyük sanayi (Bosch, Arçelik, Türk Traktör, BMC vb.). Site 2024'te WordPress/Elementor ile yenilenmiş ama proje detay sayfaları boş, meta açıklama ve teklif formu yok. Ayrıntı: musteriler/cevre-yapi/RAPOR.md",
+  "size_adj": 6,
+  "comm_adj": 4,
+  "approach": "Özel hazırlanan konsept demo üzerinden: https://cevreyapi.dijimerbilisim.com (noindex, 'tasarım konsepti' bandı). Firmada Dijimer'in yakın bir tanıdığı çalışıyor; fiyat dostane tutuldu.",
+  "scope": "Olumlu dönüşte teklif: 30.000 TL + KDV. Dahil: Türkçe site (demodaki tüm sayfalar), yayına alma, 301 yönlendirmeleri, temel SEO (meta, sitemap, Search Console), form bildirimleri e-postaya, kısa kullanım bilgilendirmesi. Ayrı ücretli: İngilizce/Fransızca, yönetim paneli (CMS), aylık bakım, aylık SEO/içerik, barındırma (Vercel Pro ~20 $/ay veya VPS), drone/fotoğraf çekimi. Ödeme %50 başta, %50 yayında. Süre 2–3 hafta.",
+  "demo": "Yayında – https://cevreyapi.dijimerbilisim.com (20.11.2026'dan itibaren 30 gün; ~20.12.2026'da olumlu dönüş yoksa kaldırılacak)",
+  "sent": "Gönderildi – 20.11.2026 (info@ ve finans@cevre-yapi.com)",
+  "status": "Yanıt bekleniyor",
+  "next": "5–7 iş günü içinde (27–29.11.2026) dönüş yoksa kısa hatırlatma veya tanıdık üzerinden durum sorma. Olumlu dönüşte 30.000 TL + KDV teklifini hazırla (komutla).",
+  "notes": "E-postada fiyat yok. Taahhüt: demo 30 gün yayında, talep edilirse hemen kaldırılır. Vercel projesine dijimerbilisim.com veya www eklenmemeli, yalnız alt alan adı. Demo, Çevre Yapı onayı olmadan portföy/referans olarak gösterilmemeli. Opsiyonel: demoda yalnız yönetim isimleri kalsın. Kaynak: musteriler/cevre-yapi/DEVIR-NOTU.md"
  }
 }
