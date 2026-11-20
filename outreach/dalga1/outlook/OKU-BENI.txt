@@ -9,11 +9,11 @@ ONCE (bir kez):
 CALISTIRMA:
  3. Bu klasordeki TASLAKLARI-OLUSTUR.bat dosyasina cift tiklayin.
     - Windows "bilgisayarinizi korudu" derse: "Ek bilgi" > "Yine de calistir".
- 4. Siyah pencerede "Devam edilsin mi? (E/H)" sorusuna E yazip Enter'a basin.
+ 4. Siyah pencerede "Devam edilsin mi? (E/H)" sorusuna E yazip Enter'a basin. Pencerede "Hesap: info@dijimerbilisim.com" yazdigini kontrol edin.
  5. "Tamamlandi: 20 taslak" yazisini gorunce pencereyi kapatin.
 
 SONRA:
- 6. Outlook > info@dijimerbilisim.com > Taslaklar klasorunu acin.
+ 6. Outlook > SOL MENUDE info@dijimerbilisim.com hesabinin altindaki Taslaklar klasorunu acin (hotmail degil).
  7. Her taslagi acip okuyun ve Gonder'e basin. Gunde 5-8 e-posta onerilir.
 
 Imza eklenmediyse pencere sari bir uyari verir: 2. adimi yapin, 20 taslagi silin, betigi tekrar calistirin.
