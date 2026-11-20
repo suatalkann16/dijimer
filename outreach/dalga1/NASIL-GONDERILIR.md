@@ -3,7 +3,7 @@
 1. `Dijimer_Dalga1_Epostalar.zip` dosyasını indirip bir klasöre çıkarın.
 2. Bir `.eml` dosyasına çift tıklayın. Outlook'ta alıcısı, konusu ve metni dolu **yeni bir e-posta** açılır. Gönderilmez, düzenlenebilir.
 3. **Kimden** satırında `info@dijimerbilisim.com` seçili olsun.
-4. İmleci "Saygılarımla," satırının altındaki boş satıra getirin → **Ekle → İmza → DİJİMER**.
+4. **İmza eklemeyin**: Dijimer logosu, imza ve iletişim bilgileri şablonun içinde. Outlook otomatik imza ekliyorsa silin, yoksa iki kez imza olur.
 5. Metni bir kez okuyun, **Gönder**'e basın.
 6. `gonderim_listesi.csv` dosyasında o firmanın satırına gönderim tarihini yazın.
 

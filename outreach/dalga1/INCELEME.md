@@ -1,6 +1,6 @@
 # Dalga 1 – Gönderime hazır e-postalar (20 firma)
 
-> Hiçbiri gönderilmedi. Her e-postayı Outlook'ta açıp okuyun, imzanızı ekleyip kendiniz gönderin.
+> Hiçbiri gönderilmedi. Her e-postayı Outlook'ta açıp okuyun ve kendiniz gönderin. İmza şablonun içinde.
 
 
 ---
@@ -21,8 +21,8 @@ Mevcut sitenizin bu portföyü olduğundan daha küçük gösterdiğini düşün
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -45,8 +45,8 @@ Bursa'dan Dijimer Bilişim olarak yazıyorum. İkitelli'de ürettiğiniz dekant�
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -69,8 +69,8 @@ Telefondan baktığımızda sitenin masaüstü görünümünün küçültülerek
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -93,8 +93,8 @@ Sitenizde bu projeler şu an yalnızca başlık olarak geçiyor. Her proje için
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -117,8 +117,8 @@ Bilgisayardan açtığımızda ana sayfanın ilk ekranının büyük ölçüde b
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -141,8 +141,8 @@ Sitenize girildiğinde ilk açılan "Güncel Haberler" kutusunun tarihi 01/11/20
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -165,8 +165,8 @@ Sitenizin tasarımı uzun süredir güncellenmemiş görünüyor; metinler küç
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -189,8 +189,8 @@ Sitenin altyapısı 2017'den kalma görünüyor ve menünün yanında "Toggle na
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -213,8 +213,8 @@ Sitenin başlık alanında yüklenmeyen bir görsel var ve tasarım uzun süredi
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -237,8 +237,8 @@ Bizim denememizde sitenizin ana sayfası ilk ekranda yalnızca firma adı ve "Co
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -261,8 +261,8 @@ Sitenizin altyapısı 2017'den kalma görünüyor; imalat kabiliyetiniz, tamamla
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -287,8 +287,8 @@ Bunun yanında A.Ş. ölçeğinizi, belge ve yeterliklerinizi daha net yansıtan
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -311,8 +311,8 @@ Bu güçlü referanslar şu an küçük metin blokları içinde kalıyor ve tele
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -335,8 +335,8 @@ Bursa'dan Dijimer Bilişim olarak yazıyorum. 1998'den beri hem kentsel ve endü
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -359,8 +359,8 @@ Sitenizin altyapısı 2017'den kalma görünüyor; akreditasyon kapsamınız ve 
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -383,8 +383,8 @@ Sitenizin ana görseli bulanık ve üzerindeki başlık zor okunuyor; hizmetleri
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -407,8 +407,8 @@ Sitenizi hem bilgisayardan hem telefondan incelediğimizde üst bölümde öğel
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -431,8 +431,8 @@ Sitenizde makale ve kütüphane bölümleri olması güzel bir başlangıç; anc
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -455,8 +455,8 @@ Henüz bir ekip belirlemediyseniz, havuz ve su arıtma sistemleri alanındaki pr
 Sanayi ve B2B firmalar için kurumsal web sitelerini sabit ve şeffaf bir paket fiyatıyla yapıyoruz; ne yapılacağı ve tutar baştan yazılı olur. Paket içeriğini https://dijimerbilisim.com/kurumsal-web-sitesi sayfasında görebilirsiniz. Uygun görürseniz ihtiyacınızı kısa bir görüşmede dinleyip size özel teklifimizi iletelim.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
@@ -479,8 +479,8 @@ Bizim denememizde web sitenizin ana sayfasındaki büyük görsel alanı boş g�
 Uygun görürseniz ihtiyaçlarınızı dinlemek için kısa bir randevu talep ediyoruz; kurumunuzun satın alma prosedürüne uygun şekilde ilerleyebiliriz.
 
 Saygılarımla,
-
-
+Dijimer Bilişim
+0538 370 11 79 · info@dijimerbilisim.com · dijimerbilisim.com
 
 Bu e-postayı firmanızın web sitesinde yayımlanan kurumsal iletişim adresine gönderdik. Tekrar e-posta almak istemezseniz “Çıkar” yazarak yanıtlamanız yeterli.
 ```
