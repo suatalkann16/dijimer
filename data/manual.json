@@ -26,8 +26,10 @@
   "approach": "Telif yılı 2017 olan site, imalat + mühendislik + çevre yönetimini tek çatıda sunan bir firmayı yansıtmıyor. Bursa'dan yerel ajans olarak proje fotoğrafları ve imalat kabiliyetini öne çıkaran yeni yapı önerisi.",
   "next": "Kişiselleştirilmiş e-posta onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#seren",
-  "name": "Seren Mühendislik"
+  "draft_ref": "outreach/dalga1/INCELEME.md #11",
+  "name": "Seren Mühendislik",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "elinsancevre.com": {
   "district": "Nilüfer (Nilüfer Ticaret Merkezi, Otomasyon Plaza)",
@@ -39,8 +41,10 @@
   "approach": "Sitenin üst bölümünde Türkiye dışı şablon telefon numarası (+1 646-610-5000) görünüyor; bu, potansiyel müşterinin güvenini doğrudan etkileyen somut bir hata. Kibar bir dille bu gözlemle açılış, ardından A.Ş. ölçeğine uygun yeni yapı.",
   "next": "Kişiselleştirilmiş e-posta onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#elinsan",
-  "name": "Elinsan Çevre Teknolojileri A.Ş."
+  "draft_ref": "outreach/dalga1/INCELEME.md #12",
+  "name": "Elinsan Çevre Teknolojileri A.Ş.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "boracevre.com": {
   "district": "Nilüfer (Konak Mah., Koru Sitesi)",
@@ -51,7 +55,9 @@
   "approach": "Okunabilirlik ve güncellik üzerinden kibar gözlem; hizmet başına ayrı açıklayıcı sayfa ve sanayiciye yönelik teklif formu önerisi.",
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#bora"
+  "draft_ref": "outreach/dalga1/INCELEME.md #16",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "sukentcevre.com": {
   "district": "Nilüfer (Yaylacık Mah.)",
@@ -63,8 +69,10 @@
   "next": "B grubu – sonraki tur",
   "status": "Onay bekliyor",
   "approach": "Proses suyu ve kazan kimyasalları uzmanlığı var; tarihli şablon ve ilgisiz şehir silueti kullanılmış. Sanayiciye yönelik teknik içerik ve teklif formu.",
-  "draft_ref": "outreach/eposta_taslaklari.md#sukent",
-  "name": "Sukent Çevre Mühendislik ve Arıtma Sistemleri"
+  "draft_ref": "outreach/dalga1/INCELEME.md #18",
+  "name": "Sukent Çevre Mühendislik ve Arıtma Sistemleri",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "burkasan.com": {
   "district": "Kestel",
@@ -76,8 +84,9 @@
   "approach": "Ana sayfa neredeyse boş: yalnızca 'Burkasan' ve 'Contact Us', menü İngilizce, hizmet anlatımı yok. Bursa'nın öncü lisanslı firması için Türkçe/İngilizce, hizmet ve lisans odaklı site önerisi.",
   "next": "Kişiselleştirilmiş e-posta onaya sun; demo adayı",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#burkasan",
-  "demo": "Önerildi – onay bekliyor"
+  "draft_ref": "outreach/dalga1/INCELEME.md #10",
+  "demo": "Yok (demo yapılmayacak)",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)"
  },
  "yesilcevre.com.tr": {
   "district": "Gürsu",
@@ -89,8 +98,10 @@
   "next": "B grubu – kurumsal randevu talebi düşünülebilir",
   "status": "Onay bekliyor",
   "approach": "Kurumsal yapı ve uzun karar süreci nedeniyle e-posta yerine randevu talebi; dijital vitrinin (ana görsel boş görünüyor) kooperatif ölçeğini yansıtmadığı gözlemi.",
-  "draft_ref": "outreach/eposta_taslaklari.md#yesilcevre",
-  "name": "S.S. Yeşil Çevre Hizmet ve İşletme Kooperatifi"
+  "draft_ref": "outreach/dalga1/INCELEME.md #20",
+  "name": "S.S. Yeşil Çevre Hizmet ve İşletme Kooperatifi",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "mefaaritma.com": {
   "district": "Nilüfer (Üçevler Mah., Nilüfer Ticaret Merkezi)",
@@ -111,9 +122,10 @@
   "approach": "35 yıllık ve uluslararası proje geçmişi olan firmanın sitesi dar, kutulu, çok tarihli bir düzende. Proje portföyünü (kamu, havalimanı, yurt dışı) harita ve kapasite bilgileriyle sunan yeni yapı önerisi.",
   "next": "Kişiselleştirilmiş e-posta onaya sun; demo adayı",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#cevtas",
-  "demo": "Önerildi – onay bekliyor",
-  "name": "Çevtaş Çevre Teknolojisi San. Tic. A.Ş."
+  "draft_ref": "outreach/dalga1/INCELEME.md #01",
+  "demo": "Yok (demo yapılmayacak)",
+  "name": "Çevtaş Çevre Teknolojisi San. Tic. A.Ş.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)"
  },
  "emsa.com.tr": {
   "district": "",
@@ -137,8 +149,9 @@
   "approach": "İhracat yapan bir üreticinin ürün sayfaları teknik çizim, kapasite tablosu ve İngilizce/Rusça içerikle çok daha güçlü sunulabilir. Ürün-kategori mimarisi ve teklif talep formu önerisi.",
   "next": "Kişiselleştirilmiş e-posta onaya sun; demo adayı",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#citymakine",
-  "demo": "Önerildi – onay bekliyor"
+  "draft_ref": "outreach/dalga1/INCELEME.md #02",
+  "demo": "Yok (demo yapılmayacak)",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)"
  },
  "aykosan.com.tr": {
   "district": "",
@@ -150,7 +163,9 @@
   "approach": "Yurt dışı referansları (Bosna, Maldivler) olan firmanın sitesi mobilde okunmuyor. Mobil öncelikli, İngilizce proje portföylü yeni yapı önerisi.",
   "next": "Kişiselleştirilmiş e-posta onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#aykosan"
+  "draft_ref": "outreach/dalga1/INCELEME.md #03",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "enginmuh.com": {
   "district": "Ümraniye (+ Aydın şube)",
@@ -160,8 +175,10 @@
   "comm_adj": 0,
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#engin",
-  "approach": "2002'den beri arıtma, depo ve tesisat yapan firmanın sitesi mobilde okunmuyor. Hizmet başına sade sayfalar ve İstanbul/Aydın lokasyon vurgusu."
+  "draft_ref": "outreach/dalga1/INCELEME.md #07",
+  "approach": "2002'den beri arıtma, depo ve tesisat yapan firmanın sitesi mobilde okunmuyor. Hizmet başına sade sayfalar ve İstanbul/Aydın lokasyon vurgusu.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "aesaritma.com.tr": {
   "district": "Pendik (Kurtköy, Sanayi Mah.)",
@@ -171,9 +188,11 @@
   "comm_adj": 2,
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#aes",
+  "draft_ref": "outreach/dalga1/INCELEME.md #08",
   "approach": "Filtre pres üreticisi; 2017 şablonunda 'Toggle navigation' metni görünüyor. Ürün teknik föyleri ve teklif formuyla üretici vitrini.",
-  "name": "AES Arıtma Ekipmanları ve Sistemleri"
+  "name": "AES Arıtma Ekipmanları ve Sistemleri",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "aktifaritma.com": {
   "district": "Ataşehir ofis + Kullar/Kocaeli imalat",
@@ -181,10 +200,10 @@
   "summary": "1998'de kurulan Aktif Arıtma Teknolojileri; Kullar/Kocaeli'de 3.000 m² kapalı ve 2.000 m² açık üretim alanı, yüzlerce kurulu tesis, son yıllarda ihracat. Site TR/EN/AR dilli fakat açılışta tam ekran yükleme katmanı var ve ana sayfa soluk görünüyor.",
   "size_adj": 5,
   "comm_adj": 3,
-  "notes": "Çok dilli site zaten mevcut; fırsat performans ve tasarım. Standart kapsamda 2 dil; Arapça ek dil olarak ayrıca fiyatlandırılır.",
-  "next": "E-posta taslağı onaya sun",
-  "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#aktif",
+  "notes": "Çok dilli site zaten mevcut; fırsat performans ve tasarım. Standart kapsamda 2 dil; Arapça ek dil olarak ayrıca fiyatlandırılır. Dalga 1'den çıkarıldı: açılış katmanı gözlemi 20.11 kontrolünde zayıf.",
+  "next": "Yeni somut gözlem bulunursa sonraki dalga",
+  "status": "Takip edilecek",
+  "draft_ref": "",
   "approach": "3 dilli site var ama açılış katmanı ve soluk görünüm ilk izlenimi zayıflatıyor. 1998'den beri ve 5.000 m² üretim alanı mesajını ilk saniyede veren hızlı yapı.",
   "name": "Aktif Arıtma Teknolojileri"
  },
@@ -197,8 +216,10 @@
   "comm_adj": 3,
   "next": "Kişiselleştirilmiş e-posta onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#mass",
-  "approach": "Yarım asırlık geçmiş ve P&G, Mutlu Akü gibi referanslar var; masaüstünde ana sayfa boş alanla açılıyor. İlk ekranda referans ve kapasite gücünü gösteren yeni yapı."
+  "draft_ref": "outreach/dalga1/INCELEME.md #05",
+  "approach": "Yarım asırlık geçmiş ve P&G, Mutlu Akü gibi referanslar var; masaüstünde ana sayfa boş alanla açılıyor. İlk ekranda referans ve kapasite gücünü gösteren yeni yapı.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "agtsuaritma.com.tr": {
   "district": "",
@@ -208,11 +229,13 @@
   "comm_adj": 3,
   "next": "Kişiselleştirilmiş e-posta onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#agt",
+  "draft_ref": "outreach/dalga1/INCELEME.md #04",
   "cat_cap": "A",
   "approach": "Yeni bir şablona geçilmiş ama 'Haberler' ve 'Devam Eden Projeler' boş. Çanakkale, Hatay/Reyhanlı ve Aksaray gibi gerçek projeleri dolu bir portföye dönüştürme önerisi; tam yeniden yapım yerine içerik + yapı iyileştirmesi de sunulabilir.",
   "notes": "Site yakın zamanda yenilenmiş olabilir; 'yeni yaptırdık' itirazı beklenir. Teklifte içerik/portföy odaklı ilerle.",
-  "name": "AGT Su Arıtma Teknolojileri"
+  "name": "AGT Su Arıtma Teknolojileri",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "akararitim.com": {
   "district": "İzmit (Yenişehir Mah.) + Samsun ofis",
@@ -220,11 +243,12 @@
   "summary": "Akar İleri Arıtım Teknolojisi İnş. San. ve Tic. A.Ş. 2005'te kuruldu; Aquamatch su/atıksu arıtma, 2013'ten beri Lowara İzmit yetkili bayisi. Yurt içi ve dışında 1.000'i aşkın müşteri ve 100'ü aşkın proje beyanı. Masaüstünde ilk ekran boş açılıyor.",
   "size_adj": 3,
   "comm_adj": 2,
-  "next": "B+ – sonraki tur e-posta",
-  "status": "Onay bekliyor",
+  "next": "Yeni somut gözlem bulunursa sonraki dalga",
+  "status": "Takip edilecek",
   "approach": "1.000'i aşkın müşteri ve Lowara bayiliği var; masaüstünde ilk ekran boş açılıyor. Ürün ve proje odaklı hızlı yapı.",
-  "draft_ref": "outreach/eposta_taslaklari.md#akar",
-  "name": "Akar İleri Arıtım Teknolojisi A.Ş."
+  "draft_ref": "",
+  "name": "Akar İleri Arıtım Teknolojisi A.Ş.",
+  "notes": "Dalga 1'den çıkarıldı: 'ilk ekran boş' gözlemi 20.11 kontrolünde geçerli değil."
  },
  "sgscevre.com": {
   "district": "İzmit (Serdar Mah.)",
@@ -234,8 +258,10 @@
   "comm_adj": 1,
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#sgs",
-  "approach": "TÜRKAK akrediteli laboratuvarın sitesi 2017'de kalmış. Akreditasyon kapsamı, numune/ölçüm talebi ve mevzuat içerikleriyle güven veren yapı."
+  "draft_ref": "outreach/dalga1/INCELEME.md #15",
+  "approach": "TÜRKAK akrediteli laboratuvarın sitesi 2017'de kalmış. Akreditasyon kapsamı, numune/ölçüm talebi ve mevzuat içerikleriyle güven veren yapı.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "semsu.com.tr": {
   "district": "Bornova? (0232 hattı – doğrulanmalı)",
@@ -249,10 +275,10 @@
   "comm_adj": 2,
   "scope": "Standart kurumsal site uygun; ek olarak güvenli hosting, güncelleme ve yedekleme önerilmeli (bakım paketi ayrıca).",
   "approach": "Önce yardımcı bir uyarı: ana sayfanın yetkisiz biçimde değiştirildiği bilgisi ve ekran görüntüsü. Satış baskısı yapmadan; isterlerse güvenli yeni yapı teklifi. Bu ilk temas çok değerli ama hassas, dil çok nazik olmalı.",
-  "notes": "Sitede saldırgana ait gasspershell@protonmail.com adresi bulunuyor; CRM'e alınmadı. İlk e-posta alıcıya güvenlik bildirimi niteliğinde.",
-  "next": "Güvenlik bildirimi e-postasını onaya sun (öncelikli)",
-  "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#semsu"
+  "notes": "Sitede saldırgana ait gasspershell@protonmail.com adresi bulunuyor; CRM'e alınmadı. İlk e-posta alıcıya güvenlik bildirimi niteliğinde. Dalga 1'den çıkarıldı: 20.11 kontrolünde site düzeltilmiş görünüyor ama saldırgan izi (@GaSSpEr7) duruyor; güvenlik konusu e-postada açılmayacak. Ya normal tanıtım e-postası ya da yalnızca telefonla bilgi.",
+  "next": "Yeni somut gözlem bulunursa sonraki dalga",
+  "status": "Takip edilecek",
+  "draft_ref": ""
  },
  "sumaltd.com": {
   "district": "",
@@ -262,8 +288,10 @@
   "comm_adj": 3,
   "next": "Kişiselleştirilmiş e-posta onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#suma",
-  "approach": "Ana sayfadaki 2020 tarihli haber kutusu, İller Bankası ve OSB projeleri olan firmayı 6 yıl geride gösteriyor. Kamu/OSB projelerini harita ve kapasiteyle sunan güncel yapı."
+  "draft_ref": "outreach/dalga1/INCELEME.md #06",
+  "approach": "Ana sayfadaki 2020 tarihli haber kutusu, İller Bankası ve OSB projeleri olan firmayı 6 yıl geride gösteriyor. Kamu/OSB projelerini harita ve kapasiteyle sunan güncel yapı.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "icmesuyuproje.com": {
   "district": "",
@@ -277,8 +305,10 @@
   "notes": "Site alan adı icmesuyuproje.com; e-posta sedesaltyapiproje.com alan adında. İkisi de firmaya ait görünüyor. Gmail adresi de yayında.",
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#sedes",
-  "approach": "1992'den beri İller Bankası, belediye ve OSB projeleri; sitede kırık başlık görseli. Proje portföyü ve yurt dışı iş birliklerini öne çıkaran yapı."
+  "draft_ref": "outreach/dalga1/INCELEME.md #09",
+  "approach": "1992'den beri İller Bankası, belediye ve OSB projeleri; sitede kırık başlık görseli. Proje portföyü ve yurt dışı iş birliklerini öne çıkaran yapı.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "paynamuhendislik.com": {
   "district": "Altındağ (Karacaören Sanayi Sitesi, fabrika)",
@@ -297,8 +327,10 @@
   "comm_adj": 2,
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#armasan",
-  "approach": "TPAO, DHMİ ve Merzifon OSB gibi kamu referansları sitede küçük metin blokları içinde kayboluyor. Referans odaklı, mobil uyumlu yapı."
+  "draft_ref": "outreach/dalga1/INCELEME.md #13",
+  "approach": "TPAO, DHMİ ve Merzifon OSB gibi kamu referansları sitede küçük metin blokları içinde kayboluyor. Referans odaklı, mobil uyumlu yapı.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "merkezcevre.com.tr": {
   "district": "Çankaya (Emek Mah.)",
@@ -315,8 +347,10 @@
   "comm_adj": 1,
   "next": "E-posta taslağı onaya sun",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#bioekosistem",
-  "approach": "1998'den beri atıksu ve havuz alanında çalışan firmanın ana sayfası soluk ve boşluklu. İki iş kolunu (arıtma, havuz) net ayıran yapı."
+  "draft_ref": "outreach/dalga1/INCELEME.md #14",
+  "approach": "1998'den beri atıksu ve havuz alanında çalışan firmanın ana sayfası soluk ve boşluklu. İki iş kolunu (arıtma, havuz) net ayıran yapı.",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "watertek.net": {
   "city": "İzmir",
@@ -334,9 +368,11 @@
   "notes": "Site 'yenileniyor' görünüyor: firma başka bir ajansla çalışıyor olabilir. Hızlı ve kısa temas önerilir. Şehir bilgisi doğrulanmadı.",
   "next": "Kısa e-posta onaya sun (zamanlama kritik)",
   "status": "Onay bekliyor",
-  "draft_ref": "outreach/eposta_taslaklari.md#girisim",
+  "draft_ref": "outreach/dalga1/INCELEME.md #19",
   "approach": "Site 'yenileniyor' aşamasında. Kısa ve net teklif; hazır iskeletle hızlı yayına alma vurgusu.",
-  "name": "Girişim Mühendislik Danışmanlık Su Teknolojileri ve İnşaat"
+  "name": "Girişim Mühendislik Danışmanlık Su Teknolojileri ve İnşaat",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "coskunaritma.com": {
   "district": "Gebze",
@@ -368,7 +404,9 @@
   "next": "B – sonraki tur",
   "status": "Onay bekliyor",
   "approach": "Mekanik tesisat + tank imalatı; üst alan bozuk görünüyor. Atölye kabiliyetini gösteren proje galerisi.",
-  "draft_ref": "outreach/eposta_taslaklari.md#doa"
+  "draft_ref": "outreach/dalga1/INCELEME.md #17",
+  "sent": "Gönderilmedi – Dalga 1 (Outlook taslağı hazır)",
+  "demo": "Yok (demo yapılmayacak)"
  },
  "kocakcevre.com": {
   "city": "İstanbul",
@@ -379,11 +417,12 @@
  },
  "titas.com.tr": {
   "summary": "TİTAŞ Temsilcilik İthalat Ticaret ve Sanayi A.Ş. 1986'dan beri SEÖS ve hava kalitesi istasyonları tedarik ediyor (Ankara). Sitede ağır bir yükleme ekranı var; içerik güncel.",
-  "next": "B – sonraki tur",
-  "status": "Onay bekliyor",
+  "next": "Yeni somut gözlem bulunursa sonraki dalga",
+  "status": "Takip edilecek",
   "approach": "1986'dan beri SEÖS tedarikçisi; ağır yükleme ekranı içeriği geciktiriyor. Hız ve ürün-kapsam odaklı iyileştirme.",
-  "draft_ref": "outreach/eposta_taslaklari.md#titas",
-  "name": "TİTAŞ Temsilcilik İthalat Ticaret ve Sanayi A.Ş."
+  "draft_ref": "",
+  "name": "TİTAŞ Temsilcilik İthalat Ticaret ve Sanayi A.Ş.",
+  "notes": "Dalga 1'den çıkarıldı: 'yükleniyor ekranı' gözlemi 20.11 kontrolünde geçerli değil (çerez penceresi)."
  },
  "esart.com.tr": {
   "summary": "Eskişehir OSB'nin 24.000 m³/gün atıksu tesisini işleten, Eskişehir Sanayi Odası'nca 2009'da kurulan ESART A.Ş.; akredite laboratuvar.",

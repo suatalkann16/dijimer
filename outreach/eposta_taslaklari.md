@@ -1,4 +1,4 @@
-# Dijimer – Çevre Teknolojileri Kampanyası · E-posta Taslakları (Tur 1)
+# [ESKİ – yerine outreach/dalga1/INCELEME.md kullanın] Dijimer – Çevre Teknolojileri Kampanyası · E-posta Taslakları (Tur 1)
 
 > **DURUM: HİÇBİRİ GÖNDERİLMEDİ.** Her e-posta ayrı ayrı onayınızı bekliyor. Bir taslağı onaylamanız diğerlerini onaylamak anlamına gelmez.
 >

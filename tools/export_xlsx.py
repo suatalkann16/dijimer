@@ -104,10 +104,10 @@ for r in rows:
     ref = r["eposta_taslagi"]
     if not ref:
         continue
-    anchor = ref.split("#")[-1]
-    no, subj = subjects.get(anchor, ("", ""))
+    anchor = ref.split("#")[-1].strip()
+    no, subj = subjects.get(anchor, (int(anchor) if anchor.isdigit() else "", ""))
     appr.append({"no": no, "lead_id": r["lead_id"], "firma_adi": r["firma_adi"], "sehir": r["sehir"], "eposta": r["eposta"],
-                 "eposta_durumu": r["eposta_durumu"], "konu": subj, "taslak": f"outreach/eposta_taslaklari.md – #{no}",
+                 "eposta_durumu": r["eposta_durumu"], "konu": subj, "taslak": ref,
                  "demo": r["demo_durumu"], "onay": "", "onay_tarihi": "", "gonderim": "Gönderilmedi"})
 appr.sort(key=lambda x: x["no"] or 99)
 acols = [("no", "No"), ("lead_id", "Lead ID"), ("firma_adi", "Firma"), ("sehir", "Şehir"), ("eposta", "Alıcı"),
