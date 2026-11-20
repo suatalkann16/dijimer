@@ -33,11 +33,14 @@ for e in EPOSTALAR:
     paras = list(e["p"]) + ([ORTAK_KAPANIS] if e.get("kapanis", True) else [])
     p_html = "".join(f"<p style=\"margin:0 0 12px\">{x if '<a ' in x else html.escape(x)}</p>" for x in paras)
     body_html = (
-        "<html><body style=\"font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222\">"
+        "<html><body style=\"margin:0;font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222\">"
+        "<table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"600\" style=\"max-width:600px\">"
+        "<tr><td style=\"border-top:4px solid #E53935;padding:18px 0 0 0\">"
         f"<p style=\"margin:0 0 12px\">{html.escape(e['selam'])}</p>{p_html}"
         "<p style=\"margin:0 0 4px\">Saygılarımla,</p><p style=\"margin:0 0 18px\">&nbsp;</p>"
-        f"<p style=\"margin:18px 0 0;font-size:8.5pt;color:#888\">{html.escape(CIKIS)}</p>"
-        "</body></html>")
+        "</td></tr><tr><td style=\"border-top:1px solid #E6E7EA;padding:10px 0 0 0\">"
+        f"<p style=\"margin:0;font-size:8.5pt;color:#888\">{html.escape(CIKIS)}</p>"
+        "</td></tr></table></body></html>")
     body_txt = "\n\n".join([e["selam"]] + [strip_tags(x) for x in paras] + ["Saygılarımla,", "", CIKIS])
 
     m = EmailMessage(policy=SMTP)
