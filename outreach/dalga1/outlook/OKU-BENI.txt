@@ -1,0 +1,20 @@
+DIJIMER - Outlook taslak olusturucu (Dalga 1, 20 e-posta)
+
+BU DOSYALAR E-POSTA GONDERMEZ. Yalnizca Outlook'ta Taslaklar klasorune 20 taslak kaydeder.
+
+ONCE (bir kez):
+ 1. Outlook (klasik Outlook) acik olsun, info@dijimerbilisim.com hesabi ekli olsun.
+ 2. Dosya > Secenekler > Posta > Imzalar > sag ustteki "Yeni iletiler" alaninda DIJIMER secili olsun.
+
+CALISTIRMA:
+ 3. Bu klasordeki TASLAKLARI-OLUSTUR.bat dosyasina cift tiklayin.
+    - Windows "bilgisayarinizi korudu" derse: "Ek bilgi" > "Yine de calistir".
+ 4. Siyah pencerede "Devam edilsin mi? (E/H)" sorusuna E yazip Enter'a basin.
+ 5. "Tamamlandi: 20 taslak" yazisini gorunce pencereyi kapatin.
+
+SONRA:
+ 6. Outlook > info@dijimerbilisim.com > Taslaklar klasorunu acin.
+ 7. Her taslagi acip okuyun ve Gonder'e basin. Gunde 5-8 e-posta onerilir.
+
+Imza eklenmediyse pencere sari bir uyari verir: 2. adimi yapin, 20 taslagi silin, betigi tekrar calistirin.
+Betigin ne yaptigini gormek isterseniz taslaklari-olustur.ps1 dosyasini Not Defteri ile acabilirsiniz.
